@@ -1,0 +1,16 @@
+service_id,service_name,category,base_price_kes,duration_minutes,is_active
+SRV001,Haircut,Hair,500,30,True
+SRV002,Skin Fade,Hair,800,45,True
+SRV003,Beard Trim,Grooming,300,15,True
+SRV004,Haircut + Beard,Hair,900,45,True
+SRV005,Kids Haircut,Hair,400,25,True
+SRV006,Head Shave,Grooming,450,25,True
+SRV007,Hot Towel Shave,Grooming,600,30,True
+SRV008,Line-up,Grooming,200,10,True
+SRV009,Dreadlock Retwist,Hair,1500,90,True
+SRV010,Afro Styling,Hair,1000,50,True
+SRV011,Hair Colour,Hair,1800,75,True
+SRV012,Facial Grooming,Grooming,700,35,True
+SRV013,Premium Grooming Package,Grooming,2000,90,True
+SRV014,Senior Haircut,Hair,350,25,True
+SRV015,Wash + Cut,Hair,750,40,True

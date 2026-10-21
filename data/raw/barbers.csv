@@ -1,0 +1,21 @@
+barber_id,first_name,last_name,branch_id,specialization,hire_date,employment_status,commission_rate
+BAR001,Ann,Wanjiku,BR001,Colour and styling,2022-01-31,Active,0.2
+BAR002,Lydia,Wanjiku,BR005,Classic cuts,2025-08-15,Active,0.2
+BAR003,Josphat,Mutua,BR002,Kids cuts,2025-10-01,Active,0.2
+BAR004,Esther,Chebet,BR005,Afro styling,2021-06-21,Active,0.25
+BAR005,Winnie,Mwangi,BR002,Colour and styling,2023-09-28,Active,0.2
+BAR006,David,Kilonzo,BR003,Classic cuts,2020-01-15,Active,0.25
+BAR007,Sheila,Wekesa,BR005,Beard grooming,2019-06-27,Active,0.3
+BAR008,Daniel,Kimani,BR001,Kids cuts,2022-04-15,Active,0.3
+BAR009,Ruth,Wekesa,BR005,Skin fades,2019-10-12,Active,0.2
+BAR010,Cynthia,Kariuki,BR001,Skin fades,2020-02-18,Active,0.25
+BAR011,Ann,Wekesa,BR002,Beard grooming,2022-12-26,Active,0.25
+BAR012,Esther,Wambui,BR001,Kids cuts,2026-02-13,Active,0.3
+BAR013,Michael,Kiptoo,BR004,Afro styling,2022-01-10,Inactive,0.3
+BAR014,Esther,Njeri,BR002,Colour and styling,2022-08-21,Active,0.2
+BAR015,Michael,Otieno,BR003,Afro styling,2022-01-01,Active,0.3
+BAR016,Ruth,Kibet,BR003,Skin fades,2026-05-08,Active,0.3
+BAR017,Victor,Njoroge,BR003,Skin fades,2021-10-07,Active,0.3
+BAR018,James,Omondi,BR005,Afro styling,2025-07-18,Active,0.2
+BAR019,Peter,Achieng,BR004,Classic cuts,2019-07-12,Active,0.2
+BAR020,Ann,Kiptoo,BR004,Kids cuts,2019-09-18,Active,0.3

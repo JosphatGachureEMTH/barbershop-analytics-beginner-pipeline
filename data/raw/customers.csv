@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,gender,date_of_birth,phone,email,city,signup_date,customer_segment
+CUST0001,Victor,Achieng,Male,1984-10-25,+254711540956,victor.achieng1@example.com,Mombasa,2022-08-23,Regular
+CUST0002,Faith,Kilonzo,Male,1994-06-23,+254796028436,faith.kilonzo2@example.com,Nairobi,2023-08-25,Regular
+CUST0003,Victor,Mwangi,Prefer not to say,1999-04-15,+254745351479,victor.mwangi3@example.com,Thika,2026-04-10,New
+CUST0004,Beatrice,Wanjiku,Prefer not to say,1973-05-21,+254795758349,beatrice.wanjiku4@example.com,Ruiru,2023-02-12,New
+CUST0005,Cynthia,Kiptoo,Prefer not to say,1994-12-05,+254781182864,cynthia.kiptoo5@example.com,Thika,2025-05-11,New
+CUST0006,Brian,Wanjiku,Male,1999-06-01,+254751273847,brian.wanjiku6@example.com,Nairobi,2023-05-09,Regular
+CUST0007,Josphat,Kamau,Prefer not to say,1981-10-19,+254719289546,josphat.kamau7@example.com,Thika,2024-12-26,Regular
+CUST0008,Peter,Wambui,Male,1984-08-29,+254732162965,peter.wambui8@example.com,Nairobi,2025-05-27,Regular
+CUST0009,David,Njeri,Prefer not to say,1990-12-11,+254736998038,david.njeri9@example.com,Nakuru,2024-03-28,VIP
+CUST0010,Ann,Wekesa,Male,2000-05-09,+254779467853,ann.wekesa10@example.com,Ruiru,2023-05-23,New
+CUST0011,Eric,Mwangi,Prefer not to say,1984-11-05,+254740885476,eric.mwangi11@example.com,Ruiru,2022-01-15,New
+CUST0012,Ann,Otieno,Female,1963-01-09,+254714216175,ann.otieno12@example.com,Kiambu,2022-05-26,Regular
+CUST0013,James,Wambui,Male,1969-08-11,+254782374753,james.wambui13@example.com,Nairobi,2025-03-15,Regular
+CUST0014,Michael,Barasa,Male,1968-07-16,+254722660194,michael.barasa14@example.com,Nairobi,2024-06-01,Regular
+CUST0015,Paul,Kipchoge,Prefer not to say,1962-06-06,+254797705310,paul.kipchoge15@example.com,Thika,2022-07-21,New
+CUST0016,Lydia,Maina,Female,1971-02-25,+254735714784,lydia.maina16@example.com,Nairobi,2024-07-07,New
+CUST0017,Samuel,Muli,Male,1971-03-16,+254720117988,samuel.muli17@example.com,Nairobi,2025-02-01,New
+CUST0018,Ann,Njeri,Female,1964-03-08,+254741726318,ann.njeri18@example.com,Nairobi,2024-09-21,Regular
+CUST0019,Sheila,Kimani,Female,1967-05-21,+254760864911,sheila.kimani19@example.com,Nairobi,2024-03-10,New
+CUST0020,Winnie,Kipchoge,Male,1978-12-22,+254784593961,winnie.kipchoge20@example.com,Mombasa,2024-09-23,New
+CUST0021,Dennis,Mutua,Female,1985-12-24,+254782772208,dennis.mutua21@example.com,Nairobi,2023-10-05,New
+CUST0022,Grace,Barasa,Prefer not to say,1998-04-01,+254781286543,grace.barasa22@example.com,Nairobi,2024-11-06,New
+CUST0023,Samuel,Kamau,Prefer not to say,1963-01-18,+254741568532,samuel.kamau23@example.com,Nairobi,2025-03-12,New
+CUST0024,Mary,Otieno,Prefer not to say,1963-09-05,+254766267415,mary.otieno24@example.com,Mombasa,2025-03-03,Regular
+CUST0025,Beatrice,Muli,Female,1990-01-15,+254752169044,beatrice.muli25@example.com,Nairobi,2024-03-21,New
+CUST0026,Ann,Kariuki,Male,1974-03-08,+254719736572,ann.kariuki26@example.com,Nairobi,2025-06-26,VIP
+CUST0027,Daniel,Kamau,Prefer not to say,1969-07-24,+254777898694,daniel.kamau27@example.com,Nairobi,2023-12-16,Regular
+CUST0028,Ruth,Ochieng,Male,1972-10-13,+254731172421,ruth.ochieng28@example.com,Nairobi,2025-01-17,Regular
+CUST0029,Mary,Chebet,Prefer not to say,1960-05-08,+254799639081,mary.chebet29@example.com,Kiambu,2023-09-06,VIP
+CUST0030,Daniel,Njoroge,Male,1965-03-06,+254724366125,daniel.njoroge30@example.com,Nakuru,2022-11-15,New
+CUST0031,Mary,Mutua,Prefer not to say,1975-05-19,+254737326368,mary.mutua31@example.com,Mombasa,2023-06-25,Regular
+CUST0032,James,Otieno,Female,1988-06-14,+254766851377,james.otieno32@example.com,Kiambu,2022-04-01,New
+CUST0033,Cynthia,Njoroge,Prefer not to say,1971-10-01,+254731687165,cynthia.njoroge33@example.com,Nakuru,2025-02-03,Regular
+CUST0034,Faith,Mwangi,Female,1963-05-17,+254730005727,faith.mwangi34@example.com,Ruiru,2026-09-06,Regular
+CUST0035,Faith,Njoroge,Male,1965-09-19,+254715614174,faith.njoroge35@example.com,Nairobi,2026-06-19,VIP
+CUST0036,Kevin,Wekesa,Female,1990-08-05,+254743491314,kevin.wekesa36@example.com,Mombasa,2023-12-26,Regular
+CUST0037,Ruth,Gachure,Prefer not to say,1993-08-14,+254730743797,ruth.gachure37@example.com,Thika,2023-04-30,Regular
+CUST0038,Winnie,Kiptoo,Male,1961-02-10,+254734073380,winnie.kiptoo38@example.com,Nakuru,2023-11-12,Regular
+CUST0039,Paul,Wambui,Prefer not to say,1996-05-14,+254743308443,paul.wambui39@example.com,Nairobi,2026-06-01,Regular
+CUST0040,George,Otieno,Male,1969-12-23,+254736786211,george.otieno40@example.com,Kiambu,2024-07-31,New
+CUST0041,Sharon,Ochieng,Female,1961-01-22,+254798588154,sharon.ochieng41@example.com,Nairobi,2023-11-04,New
+CUST0042,Josphat,Kilonzo,Male,1975-10-02,+254796098221,josphat.kilonzo42@example.com,Ruiru,2025-10-23,VIP
+CUST0043,Faith,Maina,Female,1965-03-04,+254745059710,faith.maina43@example.com,Nairobi,2023-06-28,New
+CUST0044,Mary,Gachure,Male,1992-09-05,+254752101056,mary.gachure44@example.com,Nairobi,2024-11-13,New
+CUST0045,Ruth,Muthoni,Female,1971-06-05,+254715957459,ruth.muthoni45@example.com,Nakuru,2022-01-04,Regular
+CUST0046,Winnie,Njeri,Prefer not to say,1992-04-09,+254736445607,winnie.njeri46@example.com,Nairobi,2022-05-24,VIP
+CUST0047,Beatrice,Maina,Prefer not to say,1974-01-30,+254799038359,beatrice.maina47@example.com,Kiambu,2026-01-14,VIP
+CUST0048,Mercy,Kariuki,Prefer not to say,1978-04-27,+254753779528,mercy.kariuki48@example.com,Nairobi,2023-08-29,Regular
+CUST0049,David,Gachure,Prefer not to say,1977-01-02,+254733357554,david.gachure49@example.com,Mombasa,2023-09-09,Regular
+CUST0050,Sharon,Mwangi,Male,1972-11-13,+254738210242,sharon.mwangi50@example.com,Nairobi,2025-04-02,Regular
+CUST0051,Eric,Kipchoge,Male,1979-11-01,+254738682516,eric.kipchoge51@example.com,Ruiru,2026-06-14,VIP
+CUST0052,Winnie,Omondi,Female,1989-07-21,+254721381064,winnie.omondi52@example.com,Nairobi,2025-09-21,Regular
+CUST0053,Eric,Kamau,Female,1990-03-07,+254751663795,eric.kamau53@example.com,Nairobi,2023-02-12,New
+CUST0054,Kevin,Ochieng,Male,1987-06-03,+254719774839,kevin.ochieng54@example.com,Ruiru,2025-07-13,Regular
+CUST0055,Esther,Kibet,Male,1982-03-05,+254763640499,esther.kibet55@example.com,Nairobi,2025-09-05,Regular
+CUST0056,Ruth,Kilonzo,Female,1994-12-01,+254767062156,ruth.kilonzo56@example.com,Nairobi,2026-07-05,VIP
+CUST0057,Mercy,Kipchoge,Female,1985-01-01,+254743446826,mercy.kipchoge57@example.com,Thika,2022-09-06,Regular
+CUST0058,Winnie,Kipchoge,Prefer not to say,1983-10-29,+254785017682,winnie.kipchoge58@example.com,Ruiru,2026-03-27,Regular
+CUST0059,Mary,Omondi,Prefer not to say,1979-02-21,+254783534128,mary.omondi59@example.com,Nairobi,2022-11-22,Regular
+CUST0060,Ian,Kipchoge,Male,1993-09-21,+254743183955,ian.kipchoge60@example.com,Kiambu,2023-07-22,Regular
+CUST0061,Mercy,Barasa,Prefer not to say,1970-09-24,+254746855845,mercy.barasa61@example.com,Nairobi,2026-01-01,New
+CUST0062,James,Maina,Male,2000-01-22,+254782498004,james.maina62@example.com,Nairobi,2022-11-05,New
+CUST0063,Esther,Njoroge,Prefer not to say,1969-08-06,+254718620650,esther.njoroge63@example.com,Nairobi,2023-11-09,Regular
+CUST0064,Paul,Otieno,Female,1997-05-12,+254766390708,paul.otieno64@example.com,Nairobi,2026-04-26,Regular
+CUST0065,Esther,Mwangi,Prefer not to say,1977-01-23,+254774019136,esther.mwangi65@example.com,Nairobi,2023-12-22,New
+CUST0066,George,Gachure,Prefer not to say,1993-07-13,+254783300637,george.gachure66@example.com,Nakuru,2023-03-28,Regular
+CUST0067,James,Gachure,Male,1961-04-20,+254762191530,james.gachure67@example.com,Nairobi,2025-10-22,Regular
+CUST0068,Lydia,Kiptoo,Male,1965-09-22,+254793517915,lydia.kiptoo68@example.com,Ruiru,2024-03-17,Regular
+CUST0069,Joy,Mwangi,Female,1988-10-30,+254767527432,joy.mwangi69@example.com,Nairobi,2024-08-03,New
+CUST0070,James,Kimani,Male,1969-06-29,+254771028710,james.kimani70@example.com,Nairobi,2026-04-08,Regular
+CUST0071,James,Kilonzo,Male,1971-04-26,+254720993268,james.kilonzo71@example.com,Ruiru,2026-03-15,Regular
+CUST0072,Martin,Ochieng,Prefer not to say,1963-01-29,+254797477029,martin.ochieng72@example.com,Nairobi,2022-03-05,VIP
+CUST0073,David,Mwangi,Prefer not to say,1966-11-01,+254742016960,david.mwangi73@example.com,Nairobi,2025-10-03,New
+CUST0074,David,Kipchoge,Prefer not to say,1971-06-30,+254759512272,david.kipchoge74@example.com,Nairobi,2025-05-28,VIP
+CUST0075,Esther,Wanjiku,Female,1973-12-14,+254724508768,esther.wanjiku75@example.com,Ruiru,2023-10-01,Regular
+CUST0076,Beatrice,Kimani,Male,1992-01-27,+254736619372,beatrice.kimani76@example.com,Nairobi,2025-11-15,Regular
+CUST0077,Michael,Wanjiku,Prefer not to say,1994-08-26,+254750477742,michael.wanjiku77@example.com,Kiambu,2025-05-14,Regular
+CUST0078,Winnie,Muthoni,Female,1975-07-29,+254781503856,winnie.muthoni78@example.com,Nairobi,2024-01-29,New
+CUST0079,Ann,Maina,Female,1998-02-09,+254766379329,ann.maina79@example.com,Kiambu,2022-08-05,Regular
+CUST0080,Martin,Chebet,Male,1991-09-23,+254730534124,martin.chebet80@example.com,Nairobi,2026-02-11,Regular
+CUST0081,Ann,Muli,Prefer not to say,1996-04-02,+254782232344,ann.muli81@example.com,Nakuru,2024-08-10,Regular
+CUST0082,Lydia,Muthoni,Male,1974-06-16,+254742949803,lydia.muthoni82@example.com,Kiambu,2022-06-27,New
+CUST0083,Victor,Ochieng,Male,1985-07-24,+254791917334,victor.ochieng83@example.com,Mombasa,2023-11-20,New
+CUST0084,Sheila,Maina,Female,1981-11-14,+254738470244,sheila.maina84@example.com,Nairobi,2023-06-14,New
+CUST0085,Ruth,Odhiambo,Prefer not to say,1999-06-24,+254747080140,ruth.odhiambo85@example.com,Ruiru,2024-11-24,VIP
+CUST0086,Josphat,Ochieng,Prefer not to say,1978-03-25,+254775575808,josphat.ochieng86@example.com,Ruiru,2023-05-08,Regular
+CUST0087,Ann,Kibet,Male,1980-02-07,+254712314351,ann.kibet87@example.com,Nairobi,2023-03-30,Regular
+CUST0088,Michael,Kariuki,Prefer not to say,1986-02-01,+254759529086,michael.kariuki88@example.com,Ruiru,2024-12-23,New
+CUST0089,Lydia,Njeri,Male,1975-10-13,+254770900658,lydia.njeri89@example.com,Nairobi,2023-05-30,New
+CUST0090,Lydia,Mutua,Male,1965-05-12,+254781922443,lydia.mutua90@example.com,Thika,2025-11-14,New
+CUST0091,David,Omondi,Male,1972-05-27,+254789133014,david.omondi91@example.com,Thika,2024-12-10,Regular
+CUST0092,Daniel,Mutua,Male,1970-03-16,+254758436637,daniel.mutua92@example.com,Nairobi,2022-01-29,Regular
+CUST0093,Peter,Muli,Female,1962-06-12,+254784270583,peter.muli93@example.com,Nairobi,2022-09-16,Regular
+CUST0094,Cynthia,Barasa,Female,1999-02-23,+254711646234,cynthia.barasa94@example.com,Ruiru,2024-08-19,Regular
+CUST0095,Eric,Kiptoo,Female,1971-04-29,+254774119726,eric.kiptoo95@example.com,Nairobi,2022-05-14,Regular
+CUST0096,Josphat,Muthoni,Prefer not to say,1990-10-16,+254717195288,josphat.muthoni96@example.com,Nairobi,2026-07-20,Regular
+CUST0097,Dennis,Kamau,Female,1965-04-24,+254784903294,dennis.kamau97@example.com,Nakuru,2025-05-26,Regular
+CUST0098,Mary,Ochieng,Prefer not to say,1977-01-23,+254770467027,mary.ochieng98@example.com,Thika,2023-09-01,Regular
+CUST0099,Paul,Kariuki,Prefer not to say,1987-11-09,+254718083974,paul.kariuki99@example.com,Mombasa,2026-02-24,New
+CUST0100,Cynthia,Mutua,Prefer not to say,1969-06-19,+254745520201,cynthia.mutua100@example.com,Mombasa,2022-11-18,New
+CUST0101,Faith,Kamau,Female,1960-02-13,+254764830300,faith.kamau101@example.com,Ruiru,2025-05-01,Regular
+CUST0102,Kevin,Ochieng,Male,1991-09-17,+254747945817,kevin.ochieng102@example.com,Nakuru,2024-07-18,New
+CUST0103,Michael,Muli,Prefer not to say,1986-06-16,+254798742485,michael.muli103@example.com,Kiambu,2023-02-10,Regular
+CUST0104,Faith,Ochieng,Prefer not to say,1966-09-07,+254745652586,faith.ochieng104@example.com,Kiambu,2022-05-27,New
+CUST0105,Winnie,Kariuki,Prefer not to say,1993-08-05,+254786397676,winnie.kariuki105@example.com,Thika,2024-06-18,New
+CUST0106,Esther,Kariuki,Prefer not to say,1978-01-20,+254746540265,esther.kariuki106@example.com,Ruiru,2024-10-08,Regular
+CUST0107,Mary,Otieno,Male,1992-12-12,+254753261270,mary.otieno107@example.com,Mombasa,2022-02-22,New
+CUST0108,Joy,Muthoni,Prefer not to say,1960-12-05,+254746173157,joy.muthoni108@example.com,Ruiru,2026-04-12,Regular
+CUST0109,Ian,Achieng,Prefer not to say,1979-11-02,+254747333543,ian.achieng109@example.com,Nairobi,2025-04-13,Regular
+CUST0110,Sharon,Barasa,Female,1981-01-30,+254756702542,sharon.barasa110@example.com,Nairobi,2023-10-20,Regular
+CUST0111,Sheila,Kiptoo,Male,1978-06-19,+254776500726,sheila.kiptoo111@example.com,Nairobi,2024-03-31,Regular
+CUST0112,Faith,Otieno,Male,1963-12-13,+254752213778,faith.otieno112@example.com,Nairobi,2022-08-26,VIP
+CUST0113,George,Achieng,Female,1989-07-02,+254782825679,george.achieng113@example.com,Ruiru,2022-04-22,New
+CUST0114,Martin,Odhiambo,Male,1988-01-20,+254769329732,martin.odhiambo114@example.com,Nakuru,2023-02-21,New
+CUST0115,Peter,Kariuki,Male,1999-07-06,+254775056916,peter.kariuki115@example.com,Nairobi,2025-07-14,Regular
+CUST0116,Michael,Kibet,Female,1973-12-09,+254783932360,michael.kibet116@example.com,Nairobi,2024-04-15,New
+CUST0117,Sharon,Wanjiku,Male,1965-04-08,+254796934122,sharon.wanjiku117@example.com,Kiambu,2024-10-17,VIP
+CUST0118,Dennis,Achieng,Prefer not to say,1972-04-06,+254765766169,dennis.achieng118@example.com,Kiambu,2024-08-25,New
+CUST0119,Faith,Njoroge,Male,1968-07-19,+254790447099,faith.njoroge119@example.com,Ruiru,2022-10-07,Regular
+CUST0120,James,Kilonzo,Male,1975-03-31,+254778147397,james.kilonzo120@example.com,Nairobi,2022-01-06,New
+CUST0121,Dennis,Muthoni,Prefer not to say,1989-08-08,+254775718414,dennis.muthoni121@example.com,Kiambu,2024-07-03,Regular
+CUST0122,Martin,Maina,Prefer not to say,1994-03-21,+254782937948,martin.maina122@example.com,Nairobi,2023-10-22,Regular
+CUST0123,Esther,Ochieng,Prefer not to say,1977-03-06,+254741348220,esther.ochieng123@example.com,Kiambu,2024-04-21,New
+CUST0124,Lydia,Barasa,Prefer not to say,2000-12-21,+254761167978,lydia.barasa124@example.com,Nairobi,2025-09-21,Regular
+CUST0125,Ann,Njoroge,Male,1961-08-29,+254726944487,ann.njoroge125@example.com,Ruiru,2025-04-23,New
+CUST0126,Daniel,Kipchoge,Female,1983-08-05,+254771327848,daniel.kipchoge126@example.com,Nairobi,2022-10-23,Regular
+CUST0127,Ann,Njoroge,Female,1981-01-22,+254745570755,ann.njoroge127@example.com,Nairobi,2025-11-19,Regular
+CUST0128,Josphat,Maina,Prefer not to say,1998-07-19,+254781621574,josphat.maina128@example.com,Nairobi,2023-10-11,Regular
+CUST0129,Ruth,Kilonzo,Male,1999-02-18,+254782613940,ruth.kilonzo129@example.com,Nairobi,2022-05-21,New
+CUST0130,Joy,Kariuki,Female,1993-07-01,+254722130508,joy.kariuki130@example.com,Nairobi,2022-07-21,Regular
+CUST0131,Esther,Wanjiku,Male,1967-06-18,+254750193656,esther.wanjiku131@example.com,Thika,2022-04-05,New
+CUST0132,Kevin,Kariuki,Male,1976-10-24,+254767805802,kevin.kariuki132@example.com,Nairobi,2024-12-23,Regular
+CUST0133,Joy,Kiptoo,Female,1967-11-08,+254720598952,joy.kiptoo133@example.com,Mombasa,2024-02-23,Regular
+CUST0134,Michael,Barasa,Prefer not to say,1966-06-02,+254741163805,michael.barasa134@example.com,Ruiru,2023-06-05,Regular
+CUST0135,Joy,Mwangi,Male,2000-06-04,+254748605268,joy.mwangi135@example.com,Mombasa,2022-11-20,New
+CUST0136,Martin,Muthoni,Male,1988-08-29,+254766949781,martin.muthoni136@example.com,Mombasa,2024-07-24,Regular
+CUST0137,David,Kimani,Male,1964-10-13,+254741837210,david.kimani137@example.com,Nairobi,2024-01-06,Regular
+CUST0138,Esther,Kariuki,Female,1997-03-26,+254798346110,esther.kariuki138@example.com,Nairobi,2022-01-17,Regular
+CUST0139,Joy,Kilonzo,Prefer not to say,1962-03-14,+254791390501,joy.kilonzo139@example.com,Nakuru,2026-09-02,VIP
+CUST0140,Dennis,Kilonzo,Female,1987-03-26,+254757287718,dennis.kilonzo140@example.com,Nairobi,2023-01-25,Regular
+CUST0141,Joy,Kilonzo,Prefer not to say,1994-06-05,+254798473848,joy.kilonzo141@example.com,Mombasa,2022-10-08,Regular
+CUST0142,Ruth,Chebet,Prefer not to say,1961-10-07,+254751464269,ruth.chebet142@example.com,Nakuru,2022-03-10,Regular
+CUST0143,Lydia,Njoroge,Female,2000-10-20,+254749609054,lydia.njoroge143@example.com,Nairobi,2024-04-30,New
+CUST0144,Peter,Njeri,Male,1983-10-24,+254777349752,peter.njeri144@example.com,Thika,2026-08-28,New
+CUST0145,Beatrice,Barasa,Male,1993-06-27,+254755461591,beatrice.barasa145@example.com,Kiambu,2024-08-17,VIP
+CUST0146,Peter,Kilonzo,Female,1998-08-01,+254763339667,peter.kilonzo146@example.com,Thika,2026-07-06,Regular
+CUST0147,Josphat,Kimani,Female,1971-11-11,+254782017516,josphat.kimani147@example.com,Nairobi,2024-01-25,Regular
+CUST0148,Joy,Muli,Prefer not to say,1977-02-02,+254795704631,joy.muli148@example.com,Thika,2022-08-10,Regular
+CUST0149,Ian,Mwangi,Prefer not to say,1999-08-31,+254785350823,ian.mwangi149@example.com,Nairobi,2025-06-03,New
+CUST0150,Josphat,Chebet,Male,2000-10-16,+254750559278,josphat.chebet150@example.com,Mombasa,2022-08-27,New
+CUST0151,Kevin,Kariuki,Male,1965-03-17,+254723044889,kevin.kariuki151@example.com,Nairobi,2025-01-05,New
+CUST0152,Victor,Wekesa,Prefer not to say,1993-05-02,+254782503409,victor.wekesa152@example.com,Nairobi,2026-03-01,Regular
+CUST0153,Ruth,Gachure,Prefer not to say,1964-06-10,+254775679047,ruth.gachure153@example.com,Mombasa,2023-07-27,New
+CUST0154,Martin,Mutua,Male,1979-12-12,+254741690501,martin.mutua154@example.com,Kiambu,2022-07-23,VIP
+CUST0155,Martin,Njeri,Prefer not to say,1976-02-02,+254718126895,martin.njeri155@example.com,Nairobi,2023-01-24,VIP
+CUST0156,Sheila,Kipchoge,Female,1989-09-23,+254738468360,sheila.kipchoge156@example.com,Mombasa,2025-05-07,VIP
+CUST0157,Kevin,Maina,Female,1965-08-25,+254785776373,kevin.maina157@example.com,Nairobi,2026-08-27,Regular
+CUST0158,David,Muthoni,Female,1996-06-21,+254741272553,david.muthoni158@example.com,Nairobi,2022-10-30,Regular
+CUST0159,Mary,Mwangi,Male,1998-07-04,+254729419691,mary.mwangi159@example.com,Thika,2025-01-11,New
+CUST0160,Samuel,Wanjiku,Prefer not to say,1998-11-12,+254713460153,samuel.wanjiku160@example.com,Nairobi,2024-01-04,Regular
+CUST0161,Michael,Muthoni,Male,1960-09-15,+254733386929,michael.muthoni161@example.com,Nairobi,2022-09-17,Regular
+CUST0162,Mercy,Wanjiku,Prefer not to say,1962-11-07,+254773920651,mercy.wanjiku162@example.com,Nairobi,2024-01-12,Regular
+CUST0163,Daniel,Kipchoge,Prefer not to say,1969-12-08,+254792558242,daniel.kipchoge163@example.com,Nairobi,2026-05-24,VIP
+CUST0164,Joy,Achieng,Male,1980-07-18,+254796347724,joy.achieng164@example.com,Thika,2022-05-05,VIP
+CUST0165,Sheila,Kimani,Male,1990-10-11,+254724490391,sheila.kimani165@example.com,Ruiru,2024-06-27,New
+CUST0166,Josphat,Maina,Prefer not to say,1966-08-27,+254718815720,josphat.maina166@example.com,Nairobi,2025-07-02,Regular
+CUST0167,Faith,Kibet,Male,1977-01-31,+254790180577,faith.kibet167@example.com,Ruiru,2024-07-18,Regular
+CUST0168,Paul,Wanjiku,Prefer not to say,1965-02-17,+254797874085,paul.wanjiku168@example.com,Mombasa,2026-04-24,Regular
+CUST0169,Sheila,Mutua,Male,1980-04-03,+254740667888,sheila.mutua169@example.com,Nairobi,2026-08-22,Regular
+CUST0170,Paul,Omondi,Female,1974-01-07,+254767279295,paul.omondi170@example.com,Nairobi,2023-06-07,Regular
+CUST0171,Peter,Wambui,Male,1963-01-04,+254722243983,peter.wambui171@example.com,Kiambu,2022-07-10,Regular
+CUST0172,Lydia,Omondi,Male,1996-05-31,+254727463800,lydia.omondi172@example.com,Ruiru,2025-04-16,VIP
+CUST0173,Faith,Maina,Prefer not to say,1965-06-25,+254765137801,faith.maina173@example.com,Nairobi,2025-09-24,VIP
+CUST0174,Paul,Omondi,Female,1972-11-25,+254790585678,paul.omondi174@example.com,Nairobi,2022-08-01,Regular
+CUST0175,David,Njoroge,Prefer not to say,1981-08-18,+254740097636,david.njoroge175@example.com,Kiambu,2023-12-19,Regular
+CUST0176,Martin,Wanjiku,Male,1985-10-02,+254740354559,martin.wanjiku176@example.com,Kiambu,2026-09-27,Regular
+CUST0177,Cynthia,Odhiambo,Prefer not to say,1990-04-11,+254796261621,cynthia.odhiambo177@example.com,Ruiru,2025-06-01,VIP
+CUST0178,Sharon,Kibet,Male,1961-04-19,+254734215035,sharon.kibet178@example.com,Nairobi,2026-04-11,New
+CUST0179,Eric,Wekesa,Female,1968-02-20,+254729226889,eric.wekesa179@example.com,Ruiru,2024-03-31,New
+CUST0180,Lydia,Chebet,Female,1964-02-12,+254781200181,lydia.chebet180@example.com,Nairobi,2024-05-09,Regular
+CUST0181,Samuel,Wekesa,Male,1992-05-14,+254753537934,samuel.wekesa181@example.com,Nakuru,2025-03-08,Regular
+CUST0182,Ruth,Otieno,Female,1967-01-23,+254792924837,ruth.otieno182@example.com,Nairobi,2022-06-17,New
+CUST0183,Joy,Gachure,Male,1987-03-26,+254769330166,joy.gachure183@example.com,Nairobi,2023-03-18,Regular
+CUST0184,Daniel,Wekesa,Male,1964-12-21,+254748016697,daniel.wekesa184@example.com,Mombasa,2025-04-29,Regular
+CUST0185,Joy,Kariuki,Female,1969-11-21,+254763051354,joy.kariuki185@example.com,Thika,2022-04-23,New
+CUST0186,Dennis,Mutua,Female,1994-04-12,+254744295247,dennis.mutua186@example.com,Nairobi,2022-09-03,New
+CUST0187,Lydia,Gachure,Female,1965-10-17,+254761030579,lydia.gachure187@example.com,Ruiru,2023-04-17,Regular
+CUST0188,Sharon,Wambui,Male,1963-03-26,+254763293990,sharon.wambui188@example.com,Kiambu,2022-03-28,Regular
+CUST0189,Victor,Kamau,Male,1985-10-29,+254767617561,victor.kamau189@example.com,Ruiru,2025-12-24,Regular
+CUST0190,Dennis,Wanjiku,Male,1960-12-07,+254753589647,dennis.wanjiku190@example.com,Nairobi,2025-06-19,Regular
+CUST0191,Esther,Wekesa,Female,1979-08-04,+254724208709,esther.wekesa191@example.com,Nairobi,2025-04-21,Regular
+CUST0192,Josphat,Kimani,Male,1993-06-15,+254755568701,josphat.kimani192@example.com,Nairobi,2026-05-15,New
+CUST0193,Mercy,Chebet,Female,1983-10-20,+254778444607,mercy.chebet193@example.com,Nairobi,2026-05-09,New
+CUST0194,Lydia,Chebet,Female,1970-08-07,+254723798190,lydia.chebet194@example.com,Nairobi,2023-02-09,New
+CUST0195,Peter,Kilonzo,Prefer not to say,1963-05-19,+254733776150,peter.kilonzo195@example.com,Thika,2025-07-10,Regular
+CUST0196,Cynthia,Muthoni,Prefer not to say,1980-02-19,+254785764804,cynthia.muthoni196@example.com,Mombasa,2025-07-03,New
+CUST0197,Ann,Maina,Female,1979-09-23,+254719165226,ann.maina197@example.com,Ruiru,2025-07-17,New
+CUST0198,James,Muthoni,Female,1975-10-15,+254778093604,james.muthoni198@example.com,Nairobi,2024-08-03,Regular
+CUST0199,Kevin,Wekesa,Male,1963-06-11,+254796525668,kevin.wekesa199@example.com,Kiambu,2022-07-04,Regular
+CUST0200,Mercy,Kimani,Male,1986-01-12,+254784399083,mercy.kimani200@example.com,Thika,2026-02-22,Regular
+CUST0201,Victor,Muthoni,Prefer not to say,1968-06-11,+254753154591,victor.muthoni201@example.com,Mombasa,2024-10-23,New
+CUST0202,Kevin,Kipchoge,Female,1996-05-17,+254756095437,kevin.kipchoge202@example.com,Thika,2022-06-22,Regular
+CUST0203,Samuel,Otieno,Female,1991-09-28,+254768754920,samuel.otieno203@example.com,Thika,2024-12-09,Regular
+CUST0204,Samuel,Wekesa,Male,1972-09-08,+254761998170,samuel.wekesa204@example.com,Nairobi,2023-11-24,Regular
+CUST0205,Kevin,Chebet,Prefer not to say,1975-01-04,+254718846539,kevin.chebet205@example.com,Nairobi,2025-02-16,Regular
+CUST0206,Dennis,Muli,Prefer not to say,1998-03-14,+254798122539,dennis.muli206@example.com,Thika,2025-05-19,Regular
+CUST0207,Eric,Kamau,Prefer not to say,1989-10-07,+254728982195,eric.kamau207@example.com,Thika,2023-09-28,VIP
+CUST0208,Esther,Wambui,Male,1965-10-13,+254789865081,esther.wambui208@example.com,Nakuru,2022-06-23,New
+CUST0209,George,Chebet,Male,1996-06-23,+254727152188,george.chebet209@example.com,Mombasa,2026-08-25,VIP
+CUST0210,Joy,Achieng,Female,1988-12-23,+254799987086,joy.achieng210@example.com,Nairobi,2024-01-12,New
+CUST0211,Dennis,Kiptoo,Female,1975-04-30,+254775266178,dennis.kiptoo211@example.com,Nairobi,2022-10-09,New
+CUST0212,Dennis,Wanjiku,Prefer not to say,1994-07-31,+254782446804,dennis.wanjiku212@example.com,Kiambu,2024-12-14,New
+CUST0213,Eric,Kilonzo,Prefer not to say,1965-11-17,+254790161060,eric.kilonzo213@example.com,Nairobi,2022-11-29,New
+CUST0214,Esther,Kilonzo,Prefer not to say,1996-04-16,+254732218290,esther.kilonzo214@example.com,Nakuru,2022-03-31,Regular
+CUST0215,Joy,Omondi,Female,1979-12-04,+254791952730,joy.omondi215@example.com,Nairobi,2026-03-14,Regular
+CUST0216,Michael,Njeri,Female,1973-11-18,+254772950208,michael.njeri216@example.com,Thika,2023-02-02,Regular
+CUST0217,Grace,Kipchoge,Male,1994-07-07,+254747818761,grace.kipchoge217@example.com,Nakuru,2024-10-26,Regular
+CUST0218,Samuel,Mutua,Prefer not to say,1966-03-17,+254743554863,samuel.mutua218@example.com,Nairobi,2024-09-11,Regular
+CUST0219,Faith,Wanjiku,Prefer not to say,1997-12-11,+254779244185,faith.wanjiku219@example.com,Kiambu,2023-08-07,New
+CUST0220,Samuel,Muli,Male,2000-08-10,+254778901038,samuel.muli220@example.com,Nairobi,2024-06-14,New
+CUST0221,Beatrice,Ochieng,Male,1999-09-06,+254756920514,beatrice.ochieng221@example.com,Thika,2024-04-29,New
+CUST0222,Mercy,Wekesa,Female,1977-04-27,+254720952896,mercy.wekesa222@example.com,Nairobi,2022-02-27,New
+CUST0223,Daniel,Kibet,Prefer not to say,1975-01-15,+254729602406,daniel.kibet223@example.com,Nairobi,2023-08-11,VIP
+CUST0224,Ian,Kibet,Female,1994-01-14,+254772962895,ian.kibet224@example.com,Nairobi,2022-01-11,VIP
+CUST0225,Brian,Muli,Female,1997-06-15,+254730068183,brian.muli225@example.com,Ruiru,2026-01-29,Regular
+CUST0226,Paul,Wanjiku,Male,1970-08-29,+254750419829,paul.wanjiku226@example.com,Nairobi,2023-05-04,Regular
+CUST0227,Winnie,Odhiambo,Male,1962-10-26,+254724879094,winnie.odhiambo227@example.com,Kiambu,2024-10-20,Regular
+CUST0228,Brian,Chebet,Prefer not to say,1985-10-17,+254742472386,brian.chebet228@example.com,Nakuru,2023-08-20,Regular
+CUST0229,Mary,Wekesa,Female,1985-08-06,+254765910756,mary.wekesa229@example.com,Nairobi,2025-09-30,New
+CUST0230,Martin,Kamau,Prefer not to say,1984-05-28,+254778092370,martin.kamau230@example.com,Nakuru,2024-11-05,Regular
+CUST0231,George,Barasa,Female,1988-07-06,+254761926331,george.barasa231@example.com,Thika,2023-06-04,Regular
+CUST0232,Martin,Kamau,Male,1970-10-25,+254798195059,martin.kamau232@example.com,Mombasa,2026-04-30,Regular
+CUST0233,Cynthia,Maina,Female,1961-12-27,+254757284777,cynthia.maina233@example.com,Ruiru,2026-07-25,Regular
+CUST0234,Sharon,Kilonzo,Prefer not to say,1980-11-03,+254774227366,sharon.kilonzo234@example.com,Mombasa,2026-07-20,New
+CUST0235,Esther,Kilonzo,Male,1961-08-28,+254749385195,esther.kilonzo235@example.com,Nairobi,2026-06-09,New
+CUST0236,Kevin,Maina,Male,1983-02-13,+254763448727,kevin.maina236@example.com,Thika,2025-01-17,Regular
+CUST0237,Kevin,Kilonzo,Prefer not to say,1968-07-28,+254748401154,kevin.kilonzo237@example.com,Nairobi,2026-05-19,New
+CUST0238,Ann,Maina,Male,1965-08-01,+254759394697,ann.maina238@example.com,Nairobi,2024-03-30,Regular
+CUST0239,Ruth,Kimani,Male,1968-05-18,+254776599269,ruth.kimani239@example.com,Mombasa,2024-01-23,VIP
+CUST0240,Mercy,Muli,Female,1992-08-12,+254766975380,mercy.muli240@example.com,Nairobi,2025-05-18,VIP
+CUST0241,Samuel,Njeri,Male,1974-05-29,+254723770458,samuel.njeri241@example.com,Nairobi,2025-09-15,New
+CUST0242,Victor,Odhiambo,Prefer not to say,1979-02-11,+254732366682,victor.odhiambo242@example.com,Mombasa,2023-12-21,Regular
+CUST0243,Lydia,Wekesa,Prefer not to say,1979-07-06,+254746850196,lydia.wekesa243@example.com,Mombasa,2026-06-09,VIP
+CUST0244,Josphat,Wambui,Prefer not to say,1978-03-22,+254758762794,josphat.wambui244@example.com,Ruiru,2026-03-16,Regular
+CUST0245,Brian,Njoroge,Prefer not to say,1990-06-01,+254768810561,brian.njoroge245@example.com,Nairobi,2022-05-18,New
+CUST0246,Ann,Wekesa,Male,1977-03-04,+254786134287,ann.wekesa246@example.com,Nairobi,2022-11-11,Regular
+CUST0247,Martin,Wekesa,Male,1994-03-25,+254720319387,martin.wekesa247@example.com,Ruiru,2024-12-20,Regular
+CUST0248,Eric,Chebet,Male,1971-03-13,+254725226815,eric.chebet248@example.com,Nairobi,2023-01-17,Regular
+CUST0249,George,Njeri,Female,1971-09-28,+254744935501,george.njeri249@example.com,Nakuru,2023-03-16,VIP
+CUST0250,Dennis,Kibet,Male,1968-12-23,+254726460116,dennis.kibet250@example.com,Nairobi,2022-06-01,Regular
+CUST0251,Ruth,Kibet,Male,1963-12-09,+254752894344,ruth.kibet251@example.com,Mombasa,2025-12-24,New
+CUST0252,Faith,Kariuki,Male,1998-03-10,+254731139996,faith.kariuki252@example.com,Nakuru,2025-12-05,Regular
+CUST0253,Winnie,Wekesa,Prefer not to say,1970-01-21,+254726288992,winnie.wekesa253@example.com,Thika,2026-06-11,New
+CUST0254,Winnie,Barasa,Female,1976-03-09,+254784359498,winnie.barasa254@example.com,Ruiru,2024-08-15,Regular
+CUST0255,Faith,Njoroge,Prefer not to say,1999-08-31,+254721571646,faith.njoroge255@example.com,Nairobi,2024-03-26,VIP
+CUST0256,Lydia,Barasa,Prefer not to say,1978-06-05,+254764953237,lydia.barasa256@example.com,Kiambu,2022-06-01,New
+CUST0257,Eric,Chebet,Female,1980-03-08,+254772523073,eric.chebet257@example.com,Mombasa,2023-12-07,New
+CUST0258,Sharon,Kilonzo,Prefer not to say,1988-09-12,+254788891300,sharon.kilonzo258@example.com,Nairobi,2022-09-22,Regular
+CUST0259,Beatrice,Otieno,Female,1983-03-29,+254730537388,beatrice.otieno259@example.com,Nairobi,2022-11-28,New
+CUST0260,Esther,Ochieng,Male,1983-04-11,+254748124318,esther.ochieng260@example.com,Kiambu,2023-05-29,New
+CUST0261,Faith,Muli,Female,1988-01-14,+254750644430,faith.muli261@example.com,Mombasa,2022-07-11,Regular
+CUST0262,Samuel,Muthoni,Prefer not to say,1966-12-01,+254732978158,samuel.muthoni262@example.com,Mombasa,2026-01-15,VIP
+CUST0263,Eric,Muthoni,Female,1997-01-06,+254713808225,eric.muthoni263@example.com,Nairobi,2025-08-06,Regular
+CUST0264,James,Chebet,Female,1994-05-27,+254786790955,james.chebet264@example.com,Nairobi,2025-08-01,New
+CUST0265,Ruth,Chebet,Prefer not to say,1972-12-28,+254796155337,ruth.chebet265@example.com,Thika,2024-09-16,New
+CUST0266,Winnie,Wambui,Male,1973-05-05,+254770873663,winnie.wambui266@example.com,Nairobi,2022-05-03,New
+CUST0267,Paul,Barasa,Male,1969-02-24,+254755659873,paul.barasa267@example.com,Mombasa,2023-10-03,Regular
+CUST0268,Eric,Omondi,Male,1977-11-19,+254727551135,eric.omondi268@example.com,Nakuru,2024-11-20,Regular
+CUST0269,Eric,Ochieng,Male,1965-06-30,+254745899440,eric.ochieng269@example.com,Nairobi,2022-10-16,New
+CUST0270,Dennis,Kimani,Prefer not to say,1978-10-03,+254743322272,dennis.kimani270@example.com,Thika,2022-11-24,Regular
+CUST0271,Beatrice,Muthoni,Prefer not to say,1974-01-10,+254735479101,beatrice.muthoni271@example.com,Nakuru,2024-10-17,VIP
+CUST0272,Victor,Barasa,Male,1982-04-23,+254713110670,victor.barasa272@example.com,Nairobi,2024-03-16,Regular
+CUST0273,Michael,Mutua,Prefer not to say,1975-10-30,+254716530784,michael.mutua273@example.com,Nairobi,2024-10-10,Regular
+CUST0274,Sharon,Chebet,Prefer not to say,1981-02-09,+254748352498,sharon.chebet274@example.com,Ruiru,2026-10-02,New
+CUST0275,Peter,Muli,Prefer not to say,1976-05-28,+254764123845,peter.muli275@example.com,Nairobi,2024-03-31,New
+CUST0276,Faith,Mutua,Male,1984-10-25,+254748735464,faith.mutua276@example.com,Nairobi,2024-10-29,Regular
+CUST0277,Faith,Muli,Prefer not to say,1990-07-09,+254792012822,faith.muli277@example.com,Nairobi,2022-07-18,Regular
+CUST0278,Winnie,Maina,Prefer not to say,1976-05-26,+254729363237,winnie.maina278@example.com,Nairobi,2024-11-08,Regular
+CUST0279,Kevin,Otieno,Female,1966-02-23,+254754699966,kevin.otieno279@example.com,Kiambu,2024-11-29,Regular
+CUST0280,Mary,Achieng,Female,1974-09-17,+254792284610,mary.achieng280@example.com,Nairobi,2024-03-15,VIP
+CUST0281,Lydia,Kariuki,Prefer not to say,1975-02-02,+254778090664,lydia.kariuki281@example.com,Kiambu,2024-12-26,Regular
+CUST0282,Grace,Kariuki,Male,1996-08-04,+254712232974,grace.kariuki282@example.com,Nairobi,2025-10-11,New
+CUST0283,Paul,Muthoni,Male,1995-09-28,+254794457912,paul.muthoni283@example.com,Nairobi,2024-08-29,New
+CUST0284,Ann,Kilonzo,Prefer not to say,1985-11-28,+254740540334,ann.kilonzo284@example.com,Nakuru,2025-04-10,Regular
+CUST0285,Mercy,Chebet,Prefer not to say,1987-10-19,+254761028283,mercy.chebet285@example.com,Nairobi,2025-10-26,New
+CUST0286,Grace,Kibet,Female,1968-07-22,+254712541730,grace.kibet286@example.com,Nairobi,2024-05-07,New
+CUST0287,Esther,Mutua,Male,1982-07-05,+254792071195,esther.mutua287@example.com,Thika,2026-10-04,Regular
+CUST0288,Kevin,Kibet,Female,1983-04-08,+254737828932,kevin.kibet288@example.com,Ruiru,2025-09-18,Regular
+CUST0289,George,Maina,Female,1980-08-14,+254781555103,george.maina289@example.com,Nairobi,2023-12-27,Regular
+CUST0290,Sheila,Omondi,Prefer not to say,1988-11-08,+254745482091,sheila.omondi290@example.com,Mombasa,2023-01-29,VIP
+CUST0291,James,Njeri,Male,1970-02-01,+254749945150,james.njeri291@example.com,Nakuru,2025-12-14,New
+CUST0292,Esther,Barasa,Male,1981-07-10,+254756815569,esther.barasa292@example.com,Ruiru,2026-06-17,Regular
+CUST0293,Dennis,Wanjiku,Prefer not to say,1990-05-08,+254782905845,dennis.wanjiku293@example.com,Nairobi,2024-03-19,Regular
+CUST0294,Cynthia,Njoroge,Male,1961-11-20,+254748605090,cynthia.njoroge294@example.com,Thika,2022-06-11,New
+CUST0295,Victor,Chebet,Male,1993-07-10,+254774300930,victor.chebet295@example.com,Nairobi,2026-08-23,Regular
+CUST0296,Beatrice,Njeri,Prefer not to say,1972-03-08,+254728424464,beatrice.njeri296@example.com,Nairobi,2026-02-26,Regular
+CUST0297,Michael,Otieno,Prefer not to say,2000-08-08,+254781275182,michael.otieno297@example.com,Nairobi,2023-04-22,New
+CUST0298,Paul,Maina,Prefer not to say,1981-03-10,+254723494908,paul.maina298@example.com,Mombasa,2022-10-09,New
+CUST0299,Faith,Kiptoo,Male,1989-04-14,+254773847325,faith.kiptoo299@example.com,Ruiru,2023-02-13,Regular
+CUST0300,Dennis,Maina,Male,1988-12-21,+254717940667,dennis.maina300@example.com,Thika,2022-07-03,Regular
+CUST0301,Michael,Njeri,Prefer not to say,1992-06-08,+254715006085,michael.njeri301@example.com,Thika,2022-12-25,Regular
+CUST0302,Sharon,Kiptoo,Female,1997-07-05,+254763283709,sharon.kiptoo302@example.com,Nakuru,2023-01-17,VIP
+CUST0303,Sheila,Kariuki,Female,1960-05-31,+254750049524,sheila.kariuki303@example.com,Ruiru,2022-08-08,VIP
+CUST0304,Eric,Kariuki,Male,1988-10-07,+254782920556,eric.kariuki304@example.com,Ruiru,2022-10-02,Regular
+CUST0305,Victor,Muli,Female,1996-04-12,+254725119192,victor.muli305@example.com,Nairobi,2026-02-06,Regular
+CUST0306,James,Kibet,Female,1960-08-18,+254755246430,james.kibet306@example.com,Nakuru,2025-03-08,Regular
+CUST0307,David,Kiptoo,Prefer not to say,1998-05-28,+254795728324,david.kiptoo307@example.com,Kiambu,2026-08-21,Regular
+CUST0308,Eric,Kamau,Male,1990-01-08,+254722802372,eric.kamau308@example.com,Nairobi,2022-10-15,Regular
+CUST0309,Beatrice,Ochieng,Female,1971-09-12,+254761482483,beatrice.ochieng309@example.com,Nairobi,2026-03-24,New
+CUST0310,Eric,Kariuki,Prefer not to say,1992-06-04,+254786890296,eric.kariuki310@example.com,Nairobi,2025-08-31,Regular
+CUST0311,Michael,Otieno,Prefer not to say,1965-04-20,+254772464258,michael.otieno311@example.com,Nairobi,2024-04-10,Regular
+CUST0312,Beatrice,Kibet,Male,1990-12-18,+254725759274,beatrice.kibet312@example.com,Mombasa,2023-08-28,Regular
+CUST0313,Michael,Ochieng,Female,1981-06-13,+254730560218,michael.ochieng313@example.com,Ruiru,2025-05-25,Regular
+CUST0314,Esther,Njeri,Male,1993-12-21,+254782144402,esther.njeri314@example.com,Kiambu,2026-08-18,New
+CUST0315,Michael,Wambui,Prefer not to say,1999-03-02,+254720988446,michael.wambui315@example.com,Ruiru,2024-12-17,Regular
+CUST0316,Josphat,Muthoni,Female,1962-10-08,+254783504237,josphat.muthoni316@example.com,Thika,2023-02-19,Regular
+CUST0317,Peter,Kiptoo,Male,1998-04-30,+254779839059,peter.kiptoo317@example.com,Nairobi,2025-10-25,New
+CUST0318,Grace,Barasa,Female,2000-04-27,+254778501420,grace.barasa318@example.com,Nairobi,2022-04-24,Regular
+CUST0319,Mercy,Gachure,Male,1985-04-18,+254717749299,mercy.gachure319@example.com,Ruiru,2025-10-09,Regular
+CUST0320,Lydia,Mwangi,Male,1971-06-01,+254710404729,lydia.mwangi320@example.com,Nakuru,2025-03-30,New
+CUST0321,Paul,Wekesa,Prefer not to say,1962-11-10,+254782633735,paul.wekesa321@example.com,Thika,2022-05-22,VIP
+CUST0322,Ian,Otieno,Male,1978-05-04,+254734156684,ian.otieno322@example.com,Nakuru,2026-04-18,Regular
+CUST0323,Lydia,Chebet,Male,1976-10-18,+254761335545,lydia.chebet323@example.com,Nairobi,2024-02-13,Regular
+CUST0324,Joy,Wambui,Prefer not to say,1965-12-18,+254797715861,joy.wambui324@example.com,Kiambu,2022-08-31,New
+CUST0325,Faith,Kimani,Prefer not to say,1965-09-17,+254739888974,faith.kimani325@example.com,Kiambu,2026-03-29,New
+CUST0326,Dennis,Kipchoge,Prefer not to say,1992-04-03,+254783074216,dennis.kipchoge326@example.com,Nairobi,2024-02-16,Regular
+CUST0327,Michael,Kipchoge,Male,1966-12-16,+254746997080,michael.kipchoge327@example.com,Nairobi,2026-01-24,Regular
+CUST0328,Kevin,Wambui,Male,1987-08-01,+254712099943,kevin.wambui328@example.com,Nairobi,2022-05-18,New
+CUST0329,Kevin,Kipchoge,Prefer not to say,1990-02-22,+254716533225,kevin.kipchoge329@example.com,Nairobi,2022-04-01,Regular
+CUST0330,Michael,Njeri,Female,1993-11-02,+254717575790,michael.njeri330@example.com,Nairobi,2023-08-16,New
+CUST0331,Beatrice,Omondi,Prefer not to say,1974-04-21,+254787507357,beatrice.omondi331@example.com,Ruiru,2025-10-09,Regular
+CUST0332,Michael,Kariuki,Female,1989-08-12,+254779961132,michael.kariuki332@example.com,Nairobi,2023-09-08,New
+CUST0333,Faith,Muthoni,Prefer not to say,2000-11-21,+254733505978,faith.muthoni333@example.com,Mombasa,2024-05-24,Regular
+CUST0334,Kevin,Wekesa,Prefer not to say,1990-02-11,+254761157708,kevin.wekesa334@example.com,Nakuru,2023-10-15,Regular
+CUST0335,Paul,Njoroge,Male,1976-11-19,+254734679818,paul.njoroge335@example.com,Nakuru,2024-08-27,New
+CUST0336,Michael,Kariuki,Prefer not to say,1966-06-23,+254772146184,michael.kariuki336@example.com,Thika,2025-02-25,Regular
+CUST0337,Paul,Njeri,Prefer not to say,1966-01-05,+254762132722,paul.njeri337@example.com,Nairobi,2023-02-21,New
+CUST0338,Josphat,Kipchoge,Male,1964-02-23,+254781891784,josphat.kipchoge338@example.com,Nakuru,2023-01-26,New
+CUST0339,George,Wambui,Prefer not to say,1987-01-17,+254715307982,george.wambui339@example.com,Kiambu,2023-01-21,Regular
+CUST0340,Grace,Omondi,Prefer not to say,1985-01-25,+254739127464,grace.omondi340@example.com,Ruiru,2023-11-13,New
+CUST0341,Beatrice,Mwangi,Female,1968-07-10,+254725745913,beatrice.mwangi341@example.com,Nakuru,2026-03-25,Regular
+CUST0342,Michael,Kibet,Prefer not to say,1991-07-27,+254737449289,michael.kibet342@example.com,Nairobi,2023-05-06,Regular
+CUST0343,Cynthia,Kariuki,Male,1980-11-30,+254781625307,cynthia.kariuki343@example.com,Mombasa,2023-09-24,New
+CUST0344,Mercy,Barasa,Male,1964-06-03,+254773013937,mercy.barasa344@example.com,Nakuru,2023-10-18,VIP
+CUST0345,Martin,Maina,Male,1962-01-19,+254785500790,martin.maina345@example.com,Kiambu,2026-02-27,New
+CUST0346,James,Njeri,Prefer not to say,1985-12-23,+254766046380,james.njeri346@example.com,Nairobi,2023-02-06,New
+CUST0347,George,Muthoni,Female,1982-05-25,+254783905989,george.muthoni347@example.com,Mombasa,2025-11-03,New
+CUST0348,Cynthia,Barasa,Prefer not to say,1988-10-13,+254775846624,cynthia.barasa348@example.com,Ruiru,2026-02-09,Regular
+CUST0349,Samuel,Njoroge,Prefer not to say,1984-07-07,+254775540707,samuel.njoroge349@example.com,Nairobi,2025-01-15,VIP
+CUST0350,Kevin,Achieng,Female,1997-08-21,+254719976458,kevin.achieng350@example.com,Thika,2025-09-30,New
+CUST0351,Brian,Gachure,Female,1997-10-17,+254794651342,brian.gachure351@example.com,Nairobi,2025-12-19,New
+CUST0352,David,Achieng,Male,1976-09-27,+254718113477,david.achieng352@example.com,Mombasa,2025-09-27,VIP
+CUST0353,Beatrice,Barasa,Prefer not to say,1981-11-19,+254712111482,beatrice.barasa353@example.com,Nairobi,2025-02-03,Regular
+CUST0354,Brian,Achieng,Prefer not to say,1972-04-28,+254781905550,brian.achieng354@example.com,Thika,2022-02-05,Regular
+CUST0355,Esther,Wambui,Male,1996-02-29,+254734060788,esther.wambui355@example.com,Nairobi,2022-07-17,Regular
+CUST0356,Michael,Mutua,Prefer not to say,1983-08-13,+254743878996,michael.mutua356@example.com,Kiambu,2023-07-02,Regular
+CUST0357,Josphat,Wekesa,Male,1980-08-03,+254785833309,josphat.wekesa357@example.com,Nairobi,2025-11-28,New
+CUST0358,Joy,Kamau,Prefer not to say,1998-07-01,+254797227356,joy.kamau358@example.com,Nakuru,2022-07-11,Regular
+CUST0359,George,Njeri,Male,1962-07-08,+254795462880,george.njeri359@example.com,Nairobi,2022-12-17,New
+CUST0360,Sheila,Gachure,Prefer not to say,1995-03-09,+254754462389,sheila.gachure360@example.com,Ruiru,2022-07-15,Regular
+CUST0361,Beatrice,Otieno,Female,1969-06-25,+254786072480,beatrice.otieno361@example.com,Ruiru,2022-04-06,VIP
+CUST0362,Joy,Muli,Prefer not to say,1985-04-11,+254798329927,joy.muli362@example.com,Nairobi,2023-10-07,New
+CUST0363,David,Muthoni,Female,1993-09-28,+254763458386,david.muthoni363@example.com,Thika,2023-09-05,New
+CUST0364,Michael,Muthoni,Male,1990-05-15,+254782553061,michael.muthoni364@example.com,Nairobi,2026-03-28,Regular
+CUST0365,Winnie,Kibet,Prefer not to say,1963-07-08,+254777215278,winnie.kibet365@example.com,Nakuru,2023-12-10,New
+CUST0366,Paul,Ochieng,Female,1975-04-12,+254791224373,paul.ochieng366@example.com,Nakuru,2025-05-04,Regular
+CUST0367,Cynthia,Maina,Female,1988-06-11,+254746685332,cynthia.maina367@example.com,Nakuru,2024-07-11,Regular
+CUST0368,Martin,Njeri,Male,1979-05-16,+254734929311,martin.njeri368@example.com,Mombasa,2025-09-15,Regular
+CUST0369,Cynthia,Odhiambo,Male,1995-10-19,+254743077929,cynthia.odhiambo369@example.com,Nakuru,2022-06-18,New
+CUST0370,George,Kibet,Prefer not to say,1966-12-02,+254762294176,george.kibet370@example.com,Nairobi,2022-08-07,New
+CUST0371,Dennis,Kipchoge,Male,1994-02-24,+254746207439,dennis.kipchoge371@example.com,Nairobi,2022-06-28,New
+CUST0372,Victor,Njeri,Prefer not to say,1982-12-26,+254764766762,victor.njeri372@example.com,Nairobi,2022-07-03,Regular
+CUST0373,Josphat,Odhiambo,Prefer not to say,1995-03-10,+254753544301,josphat.odhiambo373@example.com,Kiambu,2022-01-26,New
+CUST0374,George,Kilonzo,Female,1992-07-06,+254785099723,george.kilonzo374@example.com,Thika,2023-05-13,Regular
+CUST0375,Samuel,Wambui,Male,1967-08-09,+254728634797,samuel.wambui375@example.com,Nairobi,2023-07-04,Regular
+CUST0376,Josphat,Kiptoo,Male,1972-05-18,+254766519399,josphat.kiptoo376@example.com,Nairobi,2026-05-22,New
+CUST0377,James,Ochieng,Prefer not to say,1988-01-14,+254776545476,james.ochieng377@example.com,Ruiru,2023-02-05,Regular
+CUST0378,Peter,Kariuki,Female,1977-10-01,+254754589439,peter.kariuki378@example.com,Kiambu,2024-02-18,Regular
+CUST0379,Eric,Kipchoge,Male,1979-04-26,+254797380687,eric.kipchoge379@example.com,Thika,2022-10-06,New
+CUST0380,Mary,Kibet,Female,1981-06-27,+254752168966,mary.kibet380@example.com,Nairobi,2024-03-26,VIP
+CUST0381,Dennis,Omondi,Prefer not to say,1988-05-22,+254775901885,dennis.omondi381@example.com,Thika,2026-05-21,New
+CUST0382,George,Muli,Male,1976-05-16,+254725285764,george.muli382@example.com,Thika,2023-02-14,Regular
+CUST0383,Faith,Kiptoo,Prefer not to say,1994-06-07,+254783833059,faith.kiptoo383@example.com,Nairobi,2026-01-29,Regular
+CUST0384,Esther,Mutua,Male,1995-10-13,+254749101812,esther.mutua384@example.com,Kiambu,2022-05-22,Regular
+CUST0385,Winnie,Gachure,Prefer not to say,1982-05-25,+254728680305,winnie.gachure385@example.com,Mombasa,2023-05-11,New
+CUST0386,Peter,Kibet,Male,1995-05-25,+254760598851,peter.kibet386@example.com,Nairobi,2025-05-09,Regular
+CUST0387,George,Njeri,Prefer not to say,1999-01-04,+254766143368,george.njeri387@example.com,Ruiru,2026-06-08,VIP
+CUST0388,Esther,Njeri,Prefer not to say,1988-08-16,+254721406082,esther.njeri388@example.com,Nairobi,2023-05-24,Regular
+CUST0389,Martin,Kiptoo,Prefer not to say,1987-06-26,+254715945401,martin.kiptoo389@example.com,Ruiru,2025-08-14,Regular
+CUST0390,George,Kilonzo,Male,1995-09-19,+254767774765,george.kilonzo390@example.com,Nairobi,2022-07-21,New
+CUST0391,Mercy,Omondi,Prefer not to say,1985-01-11,+254787915846,mercy.omondi391@example.com,Mombasa,2023-03-29,Regular
+CUST0392,George,Kipchoge,Prefer not to say,1986-05-27,+254777171380,george.kipchoge392@example.com,Nairobi,2022-02-20,Regular
+CUST0393,Dennis,Gachure,Female,1965-03-16,+254729015320,dennis.gachure393@example.com,Nairobi,2023-12-04,Regular
+CUST0394,David,Achieng,Male,1975-08-16,+254773909453,david.achieng394@example.com,Nairobi,2026-01-18,Regular
+CUST0395,Eric,Kamau,Male,1962-01-02,+254725446483,eric.kamau395@example.com,Nairobi,2023-12-04,Regular
+CUST0396,Joy,Kiptoo,Prefer not to say,1970-12-10,+254779255529,joy.kiptoo396@example.com,Nairobi,2022-11-24,New
+CUST0397,Paul,Kipchoge,Female,1995-10-14,+254764364546,paul.kipchoge397@example.com,Mombasa,2023-01-17,Regular
+CUST0398,Paul,Kimani,Female,1993-01-28,+254792424037,paul.kimani398@example.com,Kiambu,2024-07-09,Regular
+CUST0399,George,Mwangi,Prefer not to say,1969-08-20,+254737619925,george.mwangi399@example.com,Nairobi,2025-12-12,Regular
+CUST0400,Josphat,Muthoni,Female,1995-11-12,+254782060023,josphat.muthoni400@example.com,Nairobi,2023-10-30,New
+CUST0401,Daniel,Muli,Prefer not to say,1998-09-11,+254775697427,daniel.muli401@example.com,Ruiru,2025-08-01,New
+CUST0402,George,Odhiambo,Male,1986-05-01,+254725331969,george.odhiambo402@example.com,Nairobi,2026-09-28,Regular
+CUST0403,Samuel,Wambui,Prefer not to say,1995-11-30,+254749922369,samuel.wambui403@example.com,Thika,2025-04-23,New
+CUST0404,Peter,Maina,Female,1970-09-13,+254750987410,peter.maina404@example.com,Nairobi,2024-02-04,Regular
+CUST0405,Mercy,Kimani,Male,1986-10-02,+254728504235,mercy.kimani405@example.com,Ruiru,2024-05-16,New
+CUST0406,Ann,Njeri,Prefer not to say,1988-12-10,+254733251181,ann.njeri406@example.com,Ruiru,2024-09-29,New
+CUST0407,Samuel,Maina,Male,1987-10-14,+254717195581,samuel.maina407@example.com,Kiambu,2022-01-20,Regular
+CUST0408,David,Kimani,Prefer not to say,1982-09-03,+254797653539,david.kimani408@example.com,Ruiru,2025-11-03,Regular
+CUST0409,Esther,Kipchoge,Male,1967-07-03,+254721095863,esther.kipchoge409@example.com,Ruiru,2026-06-18,Regular
+CUST0410,Dennis,Otieno,Male,1970-01-31,+254782156607,dennis.otieno410@example.com,Nairobi,2026-05-18,Regular
+CUST0411,Lydia,Kilonzo,Male,1984-08-28,+254778559218,lydia.kilonzo411@example.com,Nairobi,2022-08-22,New
+CUST0412,Faith,Wekesa,Prefer not to say,1996-11-24,+254715584869,faith.wekesa412@example.com,Nakuru,2024-06-22,Regular
+CUST0413,Paul,Wanjiku,Prefer not to say,1997-03-26,+254797734330,paul.wanjiku413@example.com,Nakuru,2023-09-02,Regular
+CUST0414,Kevin,Kipchoge,Male,1975-08-21,+254721674661,kevin.kipchoge414@example.com,Nairobi,2022-08-29,Regular
+CUST0415,Michael,Mutua,Prefer not to say,1986-05-16,+254757060874,michael.mutua415@example.com,Kiambu,2025-06-03,Regular
+CUST0416,Samuel,Odhiambo,Female,1995-03-16,+254737732020,samuel.odhiambo416@example.com,Kiambu,2026-07-08,New
+CUST0417,Martin,Njeri,Male,1986-10-09,+254782312290,martin.njeri417@example.com,Nairobi,2025-12-12,New
+CUST0418,Grace,Muli,Prefer not to say,2000-05-18,+254722780905,grace.muli418@example.com,Nairobi,2026-03-17,Regular
+CUST0419,Beatrice,Otieno,Male,1998-11-22,+254798032908,beatrice.otieno419@example.com,Nairobi,2022-09-29,New
+CUST0420,Esther,Maina,Female,1994-02-26,+254762707402,esther.maina420@example.com,Ruiru,2025-03-28,Regular
+CUST0421,Ann,Gachure,Male,1980-04-10,+254720135622,ann.gachure421@example.com,Mombasa,2026-04-24,New
+CUST0422,Mercy,Omondi,Male,1991-03-01,+254759535894,mercy.omondi422@example.com,Ruiru,2024-09-26,New
+CUST0423,Brian,Kilonzo,Prefer not to say,1964-03-06,+254771532017,brian.kilonzo423@example.com,Mombasa,2025-11-29,Regular
+CUST0424,Josphat,Njeri,Male,1969-10-08,+254767665720,josphat.njeri424@example.com,Kiambu,2024-10-10,New
+CUST0425,Sharon,Kariuki,Male,1984-07-20,+254787568940,sharon.kariuki425@example.com,Nairobi,2024-09-20,Regular
+CUST0426,Ruth,Wambui,Female,1962-01-22,+254723364695,ruth.wambui426@example.com,Mombasa,2026-09-10,Regular
+CUST0427,Daniel,Kiptoo,Male,1980-06-23,+254710090721,daniel.kiptoo427@example.com,Thika,2024-05-26,New
+CUST0428,Esther,Njoroge,Prefer not to say,1973-07-16,+254731337593,esther.njoroge428@example.com,Kiambu,2023-07-16,New
+CUST0429,Martin,Muli,Female,1976-09-05,+254799188862,martin.muli429@example.com,Thika,2022-12-05,New
+CUST0430,Ann,Kariuki,Prefer not to say,1991-05-17,+254741426254,ann.kariuki430@example.com,Nairobi,2022-07-06,Regular
+CUST0431,Brian,Mutua,Male,1963-06-30,+254727810664,brian.mutua431@example.com,Ruiru,2024-11-29,Regular
+CUST0432,Brian,Mwangi,Prefer not to say,1975-05-31,+254726185823,brian.mwangi432@example.com,Thika,2024-05-14,Regular
+CUST0433,Ian,Kamau,Female,1977-03-08,+254721989814,ian.kamau433@example.com,Nakuru,2022-07-29,New
+CUST0434,Martin,Kariuki,Female,1977-03-02,+254727870584,martin.kariuki434@example.com,Mombasa,2025-10-18,New
+CUST0435,Mercy,Muthoni,Female,1987-05-18,+254797244236,mercy.muthoni435@example.com,Nairobi,2023-12-21,Regular
+CUST0436,Ann,Omondi,Female,1978-06-20,+254792688322,ann.omondi436@example.com,Mombasa,2023-03-21,New
+CUST0437,Daniel,Njoroge,Female,1986-06-12,+254761543890,daniel.njoroge437@example.com,Nairobi,2024-05-29,New
+CUST0438,Peter,Ochieng,Male,1988-11-30,+254721307671,peter.ochieng438@example.com,Nairobi,2025-05-15,Regular
+CUST0439,Mary,Kariuki,Prefer not to say,1961-03-15,+254798369672,mary.kariuki439@example.com,Kiambu,2023-02-25,Regular
+CUST0440,Mercy,Mutua,Prefer not to say,1977-07-28,+254749666982,mercy.mutua440@example.com,Mombasa,2026-05-25,Regular
+CUST0441,Michael,Barasa,Male,1965-01-21,+254742357445,michael.barasa441@example.com,Ruiru,2025-05-01,New
+CUST0442,Ruth,Mwangi,Male,1974-03-13,+254727714442,ruth.mwangi442@example.com,Nairobi,2026-09-15,Regular
+CUST0443,Martin,Njeri,Prefer not to say,1967-10-01,+254773218512,martin.njeri443@example.com,Thika,2026-04-27,New
+CUST0444,Grace,Kamau,Female,1971-10-05,+254738956527,grace.kamau444@example.com,Nairobi,2022-05-04,VIP
+CUST0445,George,Achieng,Male,1988-03-12,+254777249653,george.achieng445@example.com,Nakuru,2024-05-17,Regular
+CUST0446,Josphat,Chebet,Prefer not to say,1984-02-12,+254792684436,josphat.chebet446@example.com,Nairobi,2022-06-21,New
+CUST0447,Mercy,Mutua,Female,1984-01-23,+254753855682,mercy.mutua447@example.com,Nairobi,2025-07-23,Regular
+CUST0448,Ann,Wambui,Prefer not to say,1962-12-19,+254751630244,ann.wambui448@example.com,Mombasa,2026-02-03,VIP
+CUST0449,Michael,Otieno,Female,1963-11-13,+254768315400,michael.otieno449@example.com,Nairobi,2025-06-07,Regular
+CUST0450,Dennis,Wambui,Prefer not to say,1989-07-08,+254733574794,dennis.wambui450@example.com,Nairobi,2025-12-20,New
+CUST0451,Brian,Kiptoo,Male,1975-07-21,+254780196591,brian.kiptoo451@example.com,Ruiru,2026-08-12,Regular
+CUST0452,Samuel,Wekesa,Female,1993-08-19,+254746072958,samuel.wekesa452@example.com,Nakuru,2022-08-30,Regular
+CUST0453,Brian,Maina,Male,1972-03-14,+254780310522,brian.maina453@example.com,Nairobi,2025-12-29,VIP
+CUST0454,Ann,Kamau,Male,1980-06-01,+254778555983,ann.kamau454@example.com,Nairobi,2024-10-20,Regular
+CUST0455,Samuel,Wekesa,Female,1971-06-11,+254723811663,samuel.wekesa455@example.com,Kiambu,2025-10-12,Regular
+CUST0456,Michael,Omondi,Prefer not to say,1960-02-12,+254715910667,michael.omondi456@example.com,Kiambu,2022-01-26,New
+CUST0457,Ian,Wekesa,Male,1966-09-24,+254734019729,ian.wekesa457@example.com,Thika,2022-03-14,Regular
+CUST0458,Beatrice,Kibet,Prefer not to say,1989-05-31,+254766286795,beatrice.kibet458@example.com,Nairobi,2023-05-24,Regular
+CUST0459,Lydia,Maina,Male,1997-01-19,+254720453825,lydia.maina459@example.com,Ruiru,2022-09-02,Regular
+CUST0460,Ruth,Otieno,Female,1970-01-04,+254779226031,ruth.otieno460@example.com,Thika,2024-04-01,New
+CUST0461,Victor,Kariuki,Male,1974-09-06,+254721594468,victor.kariuki461@example.com,Ruiru,2022-01-17,Regular
+CUST0462,Dennis,Muthoni,Male,1993-03-05,+254793579731,dennis.muthoni462@example.com,Nairobi,2024-01-25,Regular
+CUST0463,Ian,Kilonzo,Female,1992-11-08,+254783357939,ian.kilonzo463@example.com,Nakuru,2023-05-18,New
+CUST0464,Beatrice,Gachure,Female,1970-06-14,+254782684966,beatrice.gachure464@example.com,Nairobi,2026-09-16,Regular
+CUST0465,Brian,Maina,Female,1994-01-16,+254798221829,brian.maina465@example.com,Nairobi,2026-02-20,Regular
+CUST0466,Daniel,Mutua,Prefer not to say,1970-09-07,+254766346728,daniel.mutua466@example.com,Ruiru,2022-05-03,VIP
+CUST0467,Peter,Kibet,Male,1964-03-04,+254715892193,peter.kibet467@example.com,Thika,2026-09-28,Regular
+CUST0468,Esther,Wekesa,Male,1993-07-19,+254721395409,esther.wekesa468@example.com,Ruiru,2024-11-01,New
+CUST0469,Sharon,Kimani,Female,1986-07-20,+254786211608,sharon.kimani469@example.com,Nairobi,2025-09-18,VIP
+CUST0470,Michael,Kariuki,Male,1998-03-03,+254752279780,michael.kariuki470@example.com,Thika,2024-03-15,Regular
+CUST0471,Lydia,Maina,Male,1980-04-22,+254746501299,lydia.maina471@example.com,Nairobi,2023-02-20,New
+CUST0472,Cynthia,Muthoni,Female,1966-12-21,+254724181143,cynthia.muthoni472@example.com,Nairobi,2024-08-12,New
+CUST0473,Daniel,Njeri,Male,1994-07-22,+254737868462,daniel.njeri473@example.com,Ruiru,2024-08-06,New
+CUST0474,Daniel,Kamau,Female,1996-03-23,+254750831043,daniel.kamau474@example.com,Kiambu,2025-11-28,Regular
+CUST0475,David,Maina,Female,1964-02-03,+254743315361,david.maina475@example.com,Thika,2024-03-22,Regular
+CUST0476,Joy,Kariuki,Male,1996-10-14,+254733336132,joy.kariuki476@example.com,Nairobi,2024-04-08,Regular
+CUST0477,Faith,Omondi,Prefer not to say,1971-03-17,+254722713811,faith.omondi477@example.com,Ruiru,2026-07-05,Regular
+CUST0478,Daniel,Mwangi,Female,1997-03-31,+254739835008,daniel.mwangi478@example.com,Nairobi,2026-08-14,Regular
+CUST0479,Joy,Chebet,Prefer not to say,1963-10-08,+254788158177,joy.chebet479@example.com,Ruiru,2026-07-23,New
+CUST0480,Josphat,Mutua,Prefer not to say,1979-11-22,+254727286109,josphat.mutua480@example.com,Nairobi,2026-10-02,Regular
+CUST0481,Eric,Wanjiku,Female,1980-09-04,+254716796477,eric.wanjiku481@example.com,Nairobi,2025-03-21,Regular
+CUST0482,Lydia,Kimani,Male,1961-04-28,+254761369075,lydia.kimani482@example.com,Mombasa,2022-12-20,Regular
+CUST0483,Beatrice,Kiptoo,Male,1972-07-21,+254769862640,beatrice.kiptoo483@example.com,Kiambu,2022-03-12,Regular
+CUST0484,Mary,Ochieng,Prefer not to say,1973-03-28,+254776960098,mary.ochieng484@example.com,Nairobi,2025-02-01,Regular
+CUST0485,Josphat,Muli,Male,1966-02-26,+254766268745,josphat.muli485@example.com,Nairobi,2026-06-21,Regular
+CUST0486,Ann,Njeri,Female,1977-02-26,+254758199211,ann.njeri486@example.com,Ruiru,2026-05-20,Regular
+CUST0487,Beatrice,Muthoni,Prefer not to say,1974-06-05,+254762127652,beatrice.muthoni487@example.com,Nairobi,2022-02-23,New
+CUST0488,Michael,Mwangi,Male,1962-08-17,+254773308406,michael.mwangi488@example.com,Ruiru,2026-04-20,Regular
+CUST0489,Michael,Kiptoo,Female,1971-02-12,+254798162850,michael.kiptoo489@example.com,Nairobi,2024-12-28,Regular
+CUST0490,Beatrice,Omondi,Female,1994-04-10,+254739448924,beatrice.omondi490@example.com,Ruiru,2026-06-22,Regular
+CUST0491,Beatrice,Kiptoo,Female,1970-08-11,+254789526622,beatrice.kiptoo491@example.com,Nairobi,2026-02-20,Regular
+CUST0492,Beatrice,Muthoni,Female,1991-07-22,+254757201978,beatrice.muthoni492@example.com,Thika,2025-02-28,New
+CUST0493,David,Barasa,Prefer not to say,1973-11-11,+254733562830,david.barasa493@example.com,Ruiru,2022-07-04,New
+CUST0494,Mary,Ochieng,Female,1983-08-13,+254774154596,mary.ochieng494@example.com,Nairobi,2025-06-11,New
+CUST0495,Peter,Maina,Prefer not to say,1967-12-17,+254753431355,peter.maina495@example.com,Nairobi,2022-10-30,Regular
+CUST0496,Beatrice,Njoroge,Female,1997-12-20,+254780638102,beatrice.njoroge496@example.com,Kiambu,2022-05-29,Regular
+CUST0497,Joy,Kimani,Prefer not to say,1964-07-13,+254755172462,joy.kimani497@example.com,Nairobi,2022-10-07,VIP
+CUST0498,Lydia,Gachure,Prefer not to say,1981-11-08,+254797131500,lydia.gachure498@example.com,Nairobi,2025-12-19,VIP
+CUST0499,Esther,Odhiambo,Male,1970-01-05,+254799326148,esther.odhiambo499@example.com,Ruiru,2022-12-26,Regular
+CUST0500,Lydia,Kibet,Male,1965-09-17,+254733851602,lydia.kibet500@example.com,Nakuru,2025-12-08,VIP
+CUST0501,George,Kilonzo,Prefer not to say,1961-06-14,+254734438599,george.kilonzo501@example.com,Mombasa,2026-07-15,VIP
+CUST0502,Michael,Chebet,Prefer not to say,1964-09-01,+254776596831,michael.chebet502@example.com,Nairobi,2026-03-07,New
+CUST0503,Martin,Maina,Female,1988-07-15,+254721908603,martin.maina503@example.com,Kiambu,2025-10-04,Regular
+CUST0504,Ruth,Maina,Male,1960-07-05,+254745596211,ruth.maina504@example.com,Nairobi,2025-11-20,New
+CUST0505,James,Wanjiku,Prefer not to say,1960-01-21,+254716462242,james.wanjiku505@example.com,Nairobi,2026-02-09,Regular
+CUST0506,Samuel,Gachure,Male,1999-07-21,+254760829941,samuel.gachure506@example.com,Nairobi,2024-02-08,New
+CUST0507,Ian,Muthoni,Prefer not to say,1994-01-05,+254740277201,ian.muthoni507@example.com,Nairobi,2022-05-31,Regular
+CUST0508,Kevin,Kariuki,Female,1974-04-18,+254745047967,kevin.kariuki508@example.com,Thika,2022-06-01,New
+CUST0509,Ruth,Kimani,Female,1992-10-31,+254720066654,ruth.kimani509@example.com,Ruiru,2022-07-10,New
+CUST0510,Mary,Barasa,Prefer not to say,1961-05-22,+254767891237,mary.barasa510@example.com,Thika,2022-12-04,Regular
+CUST0511,Paul,Kiptoo,Female,1964-07-17,+254754438762,paul.kiptoo511@example.com,Nairobi,2023-01-25,Regular
+CUST0512,Faith,Omondi,Prefer not to say,1984-03-24,+254745603234,faith.omondi512@example.com,Mombasa,2023-09-02,New
+CUST0513,Kevin,Kimani,Prefer not to say,1984-08-27,+254775893962,kevin.kimani513@example.com,Nairobi,2024-01-09,New
+CUST0514,Josphat,Kariuki,Prefer not to say,1988-01-15,+254790559564,josphat.kariuki514@example.com,Ruiru,2022-07-18,New
+CUST0515,Samuel,Chebet,Male,1963-09-04,+254773561576,samuel.chebet515@example.com,Kiambu,2023-09-24,Regular
+CUST0516,Ian,Barasa,Prefer not to say,1971-11-20,+254722232184,ian.barasa516@example.com,Mombasa,2024-03-04,New
+CUST0517,Ruth,Kimani,Male,1968-05-14,+254769830944,ruth.kimani517@example.com,Nairobi,2024-06-19,Regular
+CUST0518,Michael,Muli,Prefer not to say,1962-10-06,+254730284415,michael.muli518@example.com,Nakuru,2025-09-28,New
+CUST0519,Joy,Wekesa,Prefer not to say,1978-07-27,+254789151743,joy.wekesa519@example.com,Nairobi,2022-05-05,Regular
+CUST0520,Sharon,Achieng,Male,1984-01-08,+254773729850,sharon.achieng520@example.com,Ruiru,2023-04-28,Regular
+CUST0521,Josphat,Kimani,Prefer not to say,1961-07-22,+254777390918,josphat.kimani521@example.com,Ruiru,2024-11-24,Regular
+CUST0522,Joy,Odhiambo,Female,1965-05-24,+254770269093,joy.odhiambo522@example.com,Nairobi,2022-12-09,VIP
+CUST0523,Winnie,Mutua,Female,1961-11-30,+254766824417,winnie.mutua523@example.com,Nairobi,2025-10-31,Regular
+CUST0524,Sharon,Chebet,Female,1997-06-01,+254789865944,sharon.chebet524@example.com,Nairobi,2026-01-29,VIP
+CUST0525,Josphat,Kamau,Male,1984-12-15,+254763332084,josphat.kamau525@example.com,Ruiru,2023-07-20,Regular
+CUST0526,Beatrice,Mwangi,Prefer not to say,1987-12-13,+254788863127,beatrice.mwangi526@example.com,Ruiru,2024-05-09,New
+CUST0527,Peter,Njoroge,Prefer not to say,1986-05-16,+254788205594,peter.njoroge527@example.com,Nakuru,2022-07-25,VIP
+CUST0528,Grace,Kilonzo,Female,1995-03-31,+254748398732,grace.kilonzo528@example.com,Kiambu,2023-12-06,Regular
+CUST0529,James,Kimani,Prefer not to say,1981-10-12,+254786775659,james.kimani529@example.com,Mombasa,2022-03-18,New
+CUST0530,George,Njoroge,Prefer not to say,1987-04-21,+254763917932,george.njoroge530@example.com,Nairobi,2023-11-10,Regular
+CUST0531,Kevin,Omondi,Male,1972-01-18,+254759988144,kevin.omondi531@example.com,Nairobi,2026-08-02,Regular
+CUST0532,Dennis,Muli,Male,1998-07-01,+254723182514,dennis.muli532@example.com,Thika,2023-04-12,New
+CUST0533,Lydia,Kipchoge,Male,1972-02-01,+254765938288,lydia.kipchoge533@example.com,Mombasa,2022-07-02,New
+CUST0534,David,Gachure,Prefer not to say,1981-09-24,+254779323646,david.gachure534@example.com,Kiambu,2026-08-09,New
+CUST0535,Winnie,Kiptoo,Female,1973-12-15,+254778020910,winnie.kiptoo535@example.com,Nairobi,2026-05-18,Regular
+CUST0536,Ruth,Muthoni,Female,1967-10-17,+254735872271,ruth.muthoni536@example.com,Kiambu,2023-02-16,Regular
+CUST0537,Michael,Otieno,Male,1962-04-08,+254758368724,michael.otieno537@example.com,Nakuru,2023-07-16,Regular
+CUST0538,Victor,Achieng,Male,1988-07-02,+254726625933,victor.achieng538@example.com,Mombasa,2023-05-11,Regular
+CUST0539,Mary,Kipchoge,Female,1999-01-17,+254773697356,mary.kipchoge539@example.com,Ruiru,2023-12-18,New
+CUST0540,Sharon,Muli,Prefer not to say,1997-04-08,+254722132198,sharon.muli540@example.com,Nairobi,2024-03-02,New
+CUST0541,Sheila,Muthoni,Female,1998-06-12,+254739709238,sheila.muthoni541@example.com,Mombasa,2025-10-19,New
+CUST0542,Ann,Gachure,Prefer not to say,1960-11-24,+254711194267,ann.gachure542@example.com,Ruiru,2022-09-28,Regular
+CUST0543,Mary,Mwangi,Female,1971-04-28,+254791650533,mary.mwangi543@example.com,Kiambu,2023-09-18,Regular
+CUST0544,Esther,Chebet,Male,1979-01-04,+254760529679,esther.chebet544@example.com,Kiambu,2024-07-29,New
+CUST0545,Victor,Kariuki,Prefer not to say,1983-05-10,+254793698993,victor.kariuki545@example.com,Nairobi,2022-07-29,New
+CUST0546,Joy,Wekesa,Prefer not to say,1989-01-14,+254789694801,joy.wekesa546@example.com,Mombasa,2023-09-04,Regular
+CUST0547,Ian,Kamau,Male,1972-05-26,+254795979171,ian.kamau547@example.com,Nairobi,2023-07-22,New
+CUST0548,Esther,Chebet,Male,1968-06-13,+254730123169,esther.chebet548@example.com,Ruiru,2023-05-08,Regular
+CUST0549,Winnie,Odhiambo,Male,1989-08-18,+254752894071,winnie.odhiambo549@example.com,Mombasa,2026-01-17,New
+CUST0550,Ian,Kariuki,Male,2000-09-05,+254766178935,ian.kariuki550@example.com,Nairobi,2026-02-17,New
+CUST0551,Esther,Muthoni,Female,1975-05-24,+254739845082,esther.muthoni551@example.com,Mombasa,2025-07-31,Regular
+CUST0552,Beatrice,Wambui,Male,1982-10-03,+254750291467,beatrice.wambui552@example.com,Kiambu,2026-09-18,Regular
+CUST0553,Faith,Kiptoo,Male,1964-05-18,+254773187139,faith.kiptoo553@example.com,Nairobi,2023-06-14,Regular
+CUST0554,Faith,Kilonzo,Female,1990-06-28,+254755047826,faith.kilonzo554@example.com,Mombasa,2023-04-01,Regular
+CUST0555,Lydia,Kariuki,Male,1995-05-09,+254754468633,lydia.kariuki555@example.com,Nairobi,2025-04-14,New
+CUST0556,Sheila,Wanjiku,Male,1962-05-29,+254795147289,sheila.wanjiku556@example.com,Ruiru,2025-06-25,New
+CUST0557,Ruth,Mutua,Prefer not to say,1965-05-17,+254761226775,ruth.mutua557@example.com,Ruiru,2024-04-26,New
+CUST0558,Sheila,Njoroge,Female,1968-12-25,+254755992373,sheila.njoroge558@example.com,Nairobi,2025-03-12,Regular
+CUST0559,Victor,Njoroge,Male,1998-09-07,+254734207075,victor.njoroge559@example.com,Nakuru,2024-09-25,New
+CUST0560,Samuel,Maina,Prefer not to say,1962-08-08,+254710632635,samuel.maina560@example.com,Ruiru,2023-03-05,Regular
+CUST0561,Samuel,Muthoni,Female,1981-12-17,+254721816709,samuel.muthoni561@example.com,Nairobi,2024-06-07,Regular
+CUST0562,George,Gachure,Male,1977-03-12,+254710626681,george.gachure562@example.com,Nairobi,2023-02-13,Regular
+CUST0563,Brian,Maina,Prefer not to say,1968-07-19,+254712404661,brian.maina563@example.com,Mombasa,2025-07-07,Regular
+CUST0564,Michael,Kibet,Male,1973-12-31,+254727304799,michael.kibet564@example.com,Nairobi,2024-10-27,Regular
+CUST0565,Samuel,Kamau,Female,1973-05-17,+254749034245,samuel.kamau565@example.com,Ruiru,2024-12-01,Regular
+CUST0566,Eric,Gachure,Prefer not to say,1966-01-01,+254756000822,eric.gachure566@example.com,Thika,2024-09-30,Regular
+CUST0567,David,Kiptoo,Male,1960-11-09,+254740657783,david.kiptoo567@example.com,Nairobi,2022-09-26,New
+CUST0568,Brian,Muthoni,Prefer not to say,1967-07-31,+254726530521,brian.muthoni568@example.com,Nairobi,2025-08-25,Regular
+CUST0569,George,Chebet,Male,1994-08-06,+254781770706,george.chebet569@example.com,Mombasa,2025-05-01,VIP
+CUST0570,Joy,Wanjiku,Prefer not to say,1997-07-03,+254712649695,joy.wanjiku570@example.com,Nairobi,2022-08-26,Regular
+CUST0571,George,Wanjiku,Prefer not to say,1971-05-03,+254773672398,george.wanjiku571@example.com,Nakuru,2023-02-25,Regular
+CUST0572,Ann,Mwangi,Male,1978-11-17,+254798807116,ann.mwangi572@example.com,Nairobi,2024-12-01,New
+CUST0573,Mary,Kibet,Female,1978-10-15,+254724081350,mary.kibet573@example.com,Ruiru,2025-06-19,New
+CUST0574,Daniel,Wanjiku,Male,1968-11-28,+254791738839,daniel.wanjiku574@example.com,Nairobi,2023-06-23,Regular
+CUST0575,David,Wekesa,Prefer not to say,1978-05-19,+254749641367,david.wekesa575@example.com,Nairobi,2025-01-27,Regular
+CUST0576,David,Kibet,Male,1974-10-30,+254741474764,david.kibet576@example.com,Nairobi,2025-10-07,New
+CUST0577,Daniel,Muthoni,Prefer not to say,1982-03-01,+254730017834,daniel.muthoni577@example.com,Thika,2026-05-16,Regular
+CUST0578,Lydia,Omondi,Female,2000-08-01,+254744345256,lydia.omondi578@example.com,Mombasa,2024-07-24,VIP
+CUST0579,Dennis,Muli,Male,1962-03-31,+254723396125,dennis.muli579@example.com,Kiambu,2022-03-22,Regular
+CUST0580,Martin,Wambui,Male,1979-02-09,+254725555976,martin.wambui580@example.com,Nairobi,2026-04-02,Regular
+CUST0581,Brian,Njoroge,Prefer not to say,1989-01-11,+254732885770,brian.njoroge581@example.com,Nairobi,2024-06-15,VIP
+CUST0582,James,Omondi,Female,1976-09-18,+254755999465,james.omondi582@example.com,Nairobi,2024-03-31,Regular
+CUST0583,Victor,Muli,Male,1990-12-12,+254774188958,victor.muli583@example.com,Nakuru,2025-08-21,Regular
+CUST0584,Samuel,Wanjiku,Female,1991-03-25,+254717871385,samuel.wanjiku584@example.com,Thika,2026-09-26,New
+CUST0585,Paul,Muthoni,Male,1995-12-27,+254786362294,paul.muthoni585@example.com,Mombasa,2023-01-07,Regular
+CUST0586,Cynthia,Wekesa,Prefer not to say,1961-04-17,+254727536261,cynthia.wekesa586@example.com,Ruiru,2024-09-26,New
+CUST0587,Paul,Kipchoge,Female,1962-11-03,+254745113084,paul.kipchoge587@example.com,Mombasa,2022-01-26,Regular
+CUST0588,Joy,Achieng,Prefer not to say,1985-11-12,+254785834657,joy.achieng588@example.com,Nairobi,2025-10-03,Regular
+CUST0589,Mercy,Achieng,Prefer not to say,1991-06-05,+254792978636,mercy.achieng589@example.com,Nairobi,2025-09-17,Regular
+CUST0590,Ian,Wekesa,Prefer not to say,1990-05-03,+254796087848,ian.wekesa590@example.com,Nairobi,2026-09-15,Regular
+CUST0591,Ruth,Odhiambo,Female,1960-07-09,+254796355513,ruth.odhiambo591@example.com,Thika,2024-11-01,Regular
+CUST0592,Sheila,Barasa,Female,1963-05-11,+254775987872,sheila.barasa592@example.com,Nairobi,2023-11-09,VIP
+CUST0593,Kevin,Achieng,Female,1984-09-10,+254796344588,kevin.achieng593@example.com,Nairobi,2026-08-01,New
+CUST0594,Victor,Kipchoge,Prefer not to say,1980-02-06,+254721813825,victor.kipchoge594@example.com,Kiambu,2024-07-04,New
+CUST0595,Ian,Omondi,Prefer not to say,1960-10-18,+254723776553,ian.omondi595@example.com,Nairobi,2022-03-15,Regular
+CUST0596,Brian,Kamau,Prefer not to say,1987-10-08,+254795568918,brian.kamau596@example.com,Nairobi,2024-11-07,Regular
+CUST0597,Ann,Wambui,Male,1975-04-16,+254758767001,ann.wambui597@example.com,Kiambu,2026-07-31,New
+CUST0598,Victor,Maina,Prefer not to say,1994-06-04,+254793182506,victor.maina598@example.com,Ruiru,2026-01-07,Regular
+CUST0599,Esther,Kipchoge,Female,1964-05-15,+254798437437,esther.kipchoge599@example.com,Nairobi,2023-12-01,Regular
+CUST0600,Ann,Kariuki,Prefer not to say,1983-06-01,+254760182714,ann.kariuki600@example.com,Nakuru,2022-04-04,Regular
+CUST0601,Ian,Njoroge,Prefer not to say,1993-04-22,+254764923338,ian.njoroge601@example.com,Nairobi,2025-06-05,New
+CUST0602,Daniel,Kimani,Female,1980-07-02,+254735579048,daniel.kimani602@example.com,Nakuru,2022-08-09,Regular
+CUST0603,Kevin,Chebet,Prefer not to say,1986-05-31,+254726538199,kevin.chebet603@example.com,Nakuru,2024-07-11,Regular
+CUST0604,Grace,Achieng,Female,1982-05-17,+254710582186,grace.achieng604@example.com,Ruiru,2022-04-10,Regular
+CUST0605,Paul,Muthoni,Male,1982-10-20,+254733783708,paul.muthoni605@example.com,Mombasa,2022-12-22,Regular
+CUST0606,Peter,Wanjiku,Male,1989-06-29,+254790603922,peter.wanjiku606@example.com,Mombasa,2023-10-22,Regular
+CUST0607,George,Gachure,Prefer not to say,1991-01-24,+254743318046,george.gachure607@example.com,Nairobi,2023-12-04,VIP
+CUST0608,Victor,Njoroge,Female,1978-07-07,+254790869462,victor.njoroge608@example.com,Nakuru,2026-03-13,Regular
+CUST0609,Sharon,Kibet,Prefer not to say,1998-08-10,+254752132393,sharon.kibet609@example.com,Nakuru,2025-02-07,Regular
+CUST0610,David,Mutua,Prefer not to say,1992-01-17,+254749000919,david.mutua610@example.com,Mombasa,2025-10-09,New
+CUST0611,Esther,Chebet,Female,1982-08-08,+254782811973,esther.chebet611@example.com,Mombasa,2023-10-23,Regular
+CUST0612,Cynthia,Wekesa,Prefer not to say,1981-07-19,+254788222933,cynthia.wekesa612@example.com,Ruiru,2025-09-28,Regular
+CUST0613,Joy,Omondi,Prefer not to say,1972-10-28,+254766691738,joy.omondi613@example.com,Kiambu,2024-12-06,New
+CUST0614,George,Njoroge,Female,1990-01-24,+254717597364,george.njoroge614@example.com,Nairobi,2026-03-17,Regular
+CUST0615,Dennis,Wambui,Male,1966-07-27,+254718325904,dennis.wambui615@example.com,Mombasa,2023-08-28,New
+CUST0616,Faith,Otieno,Male,1996-07-07,+254770746206,faith.otieno616@example.com,Nairobi,2025-10-15,Regular
+CUST0617,Sheila,Ochieng,Prefer not to say,1989-01-10,+254785332458,sheila.ochieng617@example.com,Nairobi,2024-11-12,Regular
+CUST0618,Winnie,Kibet,Male,1991-01-31,+254799186817,winnie.kibet618@example.com,Nairobi,2024-02-21,Regular
+CUST0619,Winnie,Wambui,Male,1984-10-07,+254717221208,winnie.wambui619@example.com,Nairobi,2023-05-30,New
+CUST0620,Sheila,Kilonzo,Male,1997-03-25,+254740272606,sheila.kilonzo620@example.com,Thika,2025-12-14,Regular
+CUST0621,Martin,Kilonzo,Prefer not to say,1984-07-08,+254790985229,martin.kilonzo621@example.com,Nairobi,2026-01-24,VIP
+CUST0622,Dennis,Kipchoge,Female,1990-08-15,+254719995059,dennis.kipchoge622@example.com,Nairobi,2022-12-22,Regular
+CUST0623,Daniel,Kimani,Female,1979-03-22,+254747461811,daniel.kimani623@example.com,Ruiru,2022-09-24,New
+CUST0624,Sheila,Muli,Female,1974-10-29,+254772589932,sheila.muli624@example.com,Nakuru,2022-11-14,New
+CUST0625,Beatrice,Maina,Prefer not to say,1962-04-13,+254793935292,beatrice.maina625@example.com,Mombasa,2025-09-17,New
+CUST0626,Winnie,Muthoni,Prefer not to say,1976-01-23,+254719781894,winnie.muthoni626@example.com,Nakuru,2023-10-13,Regular
+CUST0627,Samuel,Achieng,Female,1995-04-09,+254777798790,samuel.achieng627@example.com,Nairobi,2025-01-17,Regular
+CUST0628,Josphat,Wekesa,Female,1999-08-17,+254738635863,josphat.wekesa628@example.com,Mombasa,2023-11-10,Regular
+CUST0629,David,Kilonzo,Prefer not to say,1983-10-18,+254773734252,david.kilonzo629@example.com,Thika,2026-08-14,Regular
+CUST0630,Ann,Mwangi,Female,1990-01-02,+254756440312,ann.mwangi630@example.com,Nairobi,2025-08-08,Regular
+CUST0631,Mary,Ochieng,Female,1990-08-13,+254753075436,mary.ochieng631@example.com,Nairobi,2026-06-19,VIP
+CUST0632,George,Muli,Prefer not to say,1992-06-22,+254747960665,george.muli632@example.com,Nairobi,2024-11-24,Regular
+CUST0633,Martin,Achieng,Prefer not to say,1979-12-27,+254775337822,martin.achieng633@example.com,Nairobi,2025-08-27,New
+CUST0634,Mercy,Kamau,Female,1967-07-05,+254782205759,mercy.kamau634@example.com,Ruiru,2025-07-07,New
+CUST0635,Joy,Chebet,Female,1998-10-19,+254766936428,joy.chebet635@example.com,Kiambu,2023-02-26,Regular
+CUST0636,Esther,Omondi,Male,1989-01-01,+254719679848,esther.omondi636@example.com,Nakuru,2022-11-11,New
+CUST0637,Esther,Maina,Female,1963-12-04,+254719831184,esther.maina637@example.com,Nairobi,2026-06-15,New
+CUST0638,Josphat,Muthoni,Female,2000-11-11,+254744715141,josphat.muthoni638@example.com,Nairobi,2024-07-12,Regular
+CUST0639,Paul,Maina,Female,1977-06-21,+254725878730,paul.maina639@example.com,Ruiru,2025-08-06,Regular
+CUST0640,Josphat,Kilonzo,Prefer not to say,1986-04-08,+254716109168,josphat.kilonzo640@example.com,Nakuru,2022-05-29,Regular
+CUST0641,Mercy,Wanjiku,Male,1995-04-19,+254750446607,mercy.wanjiku641@example.com,Mombasa,2023-07-31,Regular
+CUST0642,Victor,Kimani,Male,1996-11-16,+254798680762,victor.kimani642@example.com,Nairobi,2022-11-17,Regular
+CUST0643,Peter,Omondi,Male,1995-09-28,+254783245898,peter.omondi643@example.com,Nairobi,2025-07-22,New
+CUST0644,Joy,Omondi,Prefer not to say,1976-09-26,+254711496555,joy.omondi644@example.com,Ruiru,2025-02-10,New
+CUST0645,Kevin,Mwangi,Prefer not to say,1986-10-06,+254762892750,kevin.mwangi645@example.com,Ruiru,2022-06-24,New
+CUST0646,Lydia,Omondi,Prefer not to say,1975-06-04,+254738418851,lydia.omondi646@example.com,Nairobi,2025-08-15,Regular
+CUST0647,Peter,Kiptoo,Female,1969-11-26,+254792796892,peter.kiptoo647@example.com,Kiambu,2023-02-02,New
+CUST0648,Joy,Muthoni,Female,1998-03-11,+254783665549,joy.muthoni648@example.com,Ruiru,2025-01-30,New
+CUST0649,Joy,Kamau,Male,1964-05-27,+254736496940,joy.kamau649@example.com,Nakuru,2024-09-24,VIP
+CUST0650,Martin,Njoroge,Prefer not to say,1989-05-27,+254741478466,martin.njoroge650@example.com,Nairobi,2025-06-22,New
+CUST0651,David,Maina,Male,1980-03-19,+254754069864,david.maina651@example.com,Mombasa,2023-09-19,Regular
+CUST0652,Peter,Muthoni,Prefer not to say,1976-05-07,+254752457517,peter.muthoni652@example.com,Thika,2022-12-12,New
+CUST0653,Michael,Ochieng,Prefer not to say,1993-03-09,+254796011893,michael.ochieng653@example.com,Nairobi,2026-09-17,Regular
+CUST0654,Joy,Omondi,Male,1999-05-19,+254774418331,joy.omondi654@example.com,Ruiru,2024-01-05,Regular
+CUST0655,Ian,Njeri,Female,1967-11-19,+254796644469,ian.njeri655@example.com,Mombasa,2026-09-20,New
+CUST0656,Sharon,Njoroge,Prefer not to say,1968-10-23,+254745330756,sharon.njoroge656@example.com,Nakuru,2025-07-07,New
+CUST0657,Josphat,Mwangi,Prefer not to say,1988-05-01,+254714186818,josphat.mwangi657@example.com,Kiambu,2025-03-31,Regular
+CUST0658,Grace,Mutua,Female,1984-09-28,+254744979330,grace.mutua658@example.com,Ruiru,2025-01-10,Regular
+CUST0659,Cynthia,Njoroge,Male,1977-08-09,+254739971710,cynthia.njoroge659@example.com,Kiambu,2025-04-22,Regular
+CUST0660,Dennis,Njoroge,Male,1982-06-24,+254778506338,dennis.njoroge660@example.com,Nairobi,2024-01-16,Regular
+CUST0661,Joy,Ochieng,Prefer not to say,1990-09-09,+254732259144,joy.ochieng661@example.com,Nakuru,2022-10-15,Regular
+CUST0662,Samuel,Muthoni,Prefer not to say,1989-07-30,+254729622504,samuel.muthoni662@example.com,Nakuru,2024-09-17,VIP
+CUST0663,Kevin,Ochieng,Male,1970-05-24,+254718437082,kevin.ochieng663@example.com,Nairobi,2023-04-25,New
+CUST0664,David,Achieng,Male,1977-05-29,+254773038607,david.achieng664@example.com,Thika,2022-04-06,New
+CUST0665,Ann,Maina,Female,1991-07-27,+254779977486,ann.maina665@example.com,Mombasa,2023-07-15,Regular
+CUST0666,James,Muthoni,Prefer not to say,1985-07-29,+254733333727,james.muthoni666@example.com,Nairobi,2024-02-15,Regular
+CUST0667,Ann,Kamau,Prefer not to say,1971-04-14,+254760509993,ann.kamau667@example.com,Thika,2023-04-02,Regular
+CUST0668,Martin,Wekesa,Male,1995-07-22,+254774707720,martin.wekesa668@example.com,Kiambu,2022-01-14,Regular
+CUST0669,Peter,Kipchoge,Female,1970-04-26,+254720346606,peter.kipchoge669@example.com,Ruiru,2023-07-30,New
+CUST0670,Samuel,Kiptoo,Male,1987-01-02,+254725882013,samuel.kiptoo670@example.com,Mombasa,2024-04-29,Regular
+CUST0671,Lydia,Wanjiku,Male,1990-04-15,+254774265413,lydia.wanjiku671@example.com,Ruiru,2025-04-24,New
+CUST0672,Sharon,Gachure,Female,1970-12-06,+254715790734,sharon.gachure672@example.com,Nairobi,2025-04-28,New
+CUST0673,Ann,Achieng,Female,1999-12-16,+254786808685,ann.achieng673@example.com,Nairobi,2022-12-07,New
+CUST0674,Samuel,Achieng,Male,1986-11-19,+254785645742,samuel.achieng674@example.com,Mombasa,2026-01-13,Regular
+CUST0675,Sharon,Kariuki,Female,1969-09-18,+254770291054,sharon.kariuki675@example.com,Mombasa,2024-08-23,Regular
+CUST0676,Samuel,Ochieng,Male,1986-12-14,+254729154498,samuel.ochieng676@example.com,Nakuru,2026-08-08,Regular
+CUST0677,Mary,Wambui,Prefer not to say,1971-11-12,+254732511225,mary.wambui677@example.com,Nakuru,2023-12-03,VIP
+CUST0678,Mary,Muthoni,Female,1970-04-23,+254760762668,mary.muthoni678@example.com,Nairobi,2022-08-11,New
+CUST0679,Mercy,Achieng,Prefer not to say,1978-10-30,+254730073763,mercy.achieng679@example.com,Mombasa,2022-12-30,Regular
+CUST0680,Mary,Odhiambo,Female,1999-05-17,+254781327320,mary.odhiambo680@example.com,Ruiru,2022-08-29,New
+CUST0681,Joy,Njoroge,Prefer not to say,1984-03-10,+254710161088,joy.njoroge681@example.com,Kiambu,2026-05-06,Regular
+CUST0682,Paul,Achieng,Male,1976-08-12,+254715830187,paul.achieng682@example.com,Mombasa,2024-05-28,New
+CUST0683,Winnie,Barasa,Male,1975-09-21,+254789060695,winnie.barasa683@example.com,Kiambu,2026-04-09,Regular
+CUST0684,Grace,Wanjiku,Male,1966-01-02,+254744160831,grace.wanjiku684@example.com,Ruiru,2023-04-22,VIP
+CUST0685,Josphat,Kariuki,Prefer not to say,1999-04-30,+254782978342,josphat.kariuki685@example.com,Nairobi,2023-01-23,New
+CUST0686,Lydia,Mwangi,Prefer not to say,1983-06-10,+254725814687,lydia.mwangi686@example.com,Ruiru,2024-02-08,Regular
+CUST0687,Esther,Maina,Male,1976-04-01,+254724305357,esther.maina687@example.com,Nairobi,2025-08-27,Regular
+CUST0688,James,Njeri,Male,1985-04-30,+254759075919,james.njeri688@example.com,Mombasa,2025-10-25,Regular
+CUST0689,David,Gachure,Prefer not to say,1995-02-27,+254784834795,david.gachure689@example.com,Ruiru,2024-01-29,Regular
+CUST0690,Ian,Muli,Male,1985-11-29,+254756218720,ian.muli690@example.com,Nakuru,2024-03-26,Regular
+CUST0691,Sheila,Wambui,Female,1993-07-18,+254740839382,sheila.wambui691@example.com,Nairobi,2025-12-03,VIP
+CUST0692,Daniel,Mutua,Prefer not to say,1977-12-19,+254755424358,daniel.mutua692@example.com,Kiambu,2025-06-11,Regular
+CUST0693,Esther,Otieno,Female,1977-06-15,+254795345915,esther.otieno693@example.com,Nairobi,2022-07-06,Regular
+CUST0694,Ian,Odhiambo,Male,1963-12-15,+254718600733,ian.odhiambo694@example.com,Nairobi,2024-01-30,New
+CUST0695,Kevin,Omondi,Male,1977-12-21,+254792405066,kevin.omondi695@example.com,Mombasa,2023-08-10,Regular
+CUST0696,Mary,Otieno,Female,1988-09-20,+254776353000,mary.otieno696@example.com,Nairobi,2023-02-18,Regular
+CUST0697,Beatrice,Achieng,Male,1968-09-25,+254714510970,beatrice.achieng697@example.com,Nakuru,2024-11-11,Regular
+CUST0698,Michael,Odhiambo,Female,1990-03-27,+254714840043,michael.odhiambo698@example.com,Nairobi,2025-09-03,New
+CUST0699,Samuel,Kamau,Male,1994-12-22,+254763611082,samuel.kamau699@example.com,Nairobi,2024-03-20,Regular
+CUST0700,David,Achieng,Female,1993-01-20,+254719209640,david.achieng700@example.com,Thika,2025-01-30,New
+CUST0701,Sharon,Njeri,Prefer not to say,1975-08-13,+254756637316,sharon.njeri701@example.com,Thika,2023-07-21,New
+CUST0702,David,Kipchoge,Male,1985-10-15,+254710624307,david.kipchoge702@example.com,Nairobi,2024-04-13,Regular
+CUST0703,Faith,Kamau,Prefer not to say,1973-03-14,+254755629449,faith.kamau703@example.com,Thika,2026-07-03,Regular
+CUST0704,James,Njeri,Prefer not to say,1971-03-22,+254769427400,james.njeri704@example.com,Thika,2025-02-27,Regular
+CUST0705,Michael,Kilonzo,Male,1994-10-16,+254771585593,michael.kilonzo705@example.com,Mombasa,2025-04-16,Regular
+CUST0706,Ian,Wanjiku,Male,1963-01-11,+254761361533,ian.wanjiku706@example.com,Mombasa,2023-03-28,Regular
+CUST0707,Michael,Maina,Male,1975-11-03,+254779324022,michael.maina707@example.com,Ruiru,2025-12-06,Regular
+CUST0708,Michael,Kariuki,Female,1977-11-23,+254755901507,michael.kariuki708@example.com,Nairobi,2023-01-01,Regular
+CUST0709,Martin,Mutua,Prefer not to say,1972-01-26,+254734532913,martin.mutua709@example.com,Thika,2025-10-31,VIP
+CUST0710,David,Barasa,Prefer not to say,1968-12-15,+254741522559,david.barasa710@example.com,Nakuru,2023-06-28,New
+CUST0711,David,Ochieng,Prefer not to say,1975-12-21,+254730937370,david.ochieng711@example.com,Nakuru,2022-09-03,VIP
+CUST0712,Joy,Wambui,Male,1987-07-14,+254710889014,joy.wambui712@example.com,Nakuru,2025-01-13,VIP
+CUST0713,Sheila,Barasa,Male,1987-11-04,+254752334540,sheila.barasa713@example.com,Ruiru,2025-03-22,Regular
+CUST0714,Ian,Kiptoo,Prefer not to say,1972-07-27,+254763402482,ian.kiptoo714@example.com,Nairobi,2025-03-27,New
+CUST0715,Mercy,Gachure,Male,1984-04-03,+254714370484,mercy.gachure715@example.com,Ruiru,2024-03-17,Regular
+CUST0716,Cynthia,Kiptoo,Male,1965-05-26,+254779552316,cynthia.kiptoo716@example.com,Ruiru,2025-11-12,New
+CUST0717,Joy,Mutua,Male,1986-01-23,+254723522144,joy.mutua717@example.com,Nairobi,2025-06-08,Regular
+CUST0718,Samuel,Njeri,Male,1970-08-21,+254746159360,samuel.njeri718@example.com,Ruiru,2025-06-09,New
+CUST0719,Samuel,Barasa,Male,1969-06-11,+254766249702,samuel.barasa719@example.com,Nakuru,2024-02-02,Regular
+CUST0720,George,Muli,Male,1968-01-26,+254786693314,george.muli720@example.com,Nairobi,2025-03-25,Regular
+CUST0721,Sharon,Wanjiku,Prefer not to say,1972-02-09,+254741649234,sharon.wanjiku721@example.com,Ruiru,2024-02-20,New
+CUST0722,Winnie,Omondi,Female,1981-03-20,+254711307588,winnie.omondi722@example.com,Nairobi,2024-10-20,New
+CUST0723,Ruth,Chebet,Prefer not to say,1983-12-14,+254752376193,ruth.chebet723@example.com,Nakuru,2023-09-07,New
+CUST0724,Sheila,Muthoni,Female,1977-11-14,+254723284172,sheila.muthoni724@example.com,Mombasa,2022-05-03,New
+CUST0725,James,Barasa,Prefer not to say,1964-04-26,+254770378491,james.barasa725@example.com,Nakuru,2023-06-17,Regular
+CUST0726,Faith,Njeri,Male,1975-06-09,+254712662253,faith.njeri726@example.com,Nairobi,2023-12-21,Regular
+CUST0727,Mary,Mutua,Prefer not to say,1985-10-31,+254797223468,mary.mutua727@example.com,Mombasa,2022-12-24,VIP
+CUST0728,Dennis,Wekesa,Male,1990-03-13,+254778510704,dennis.wekesa728@example.com,Ruiru,2026-02-17,Regular
+CUST0729,Josphat,Kimani,Prefer not to say,1972-11-07,+254772243750,josphat.kimani729@example.com,Mombasa,2022-10-24,Regular
+CUST0730,Ann,Maina,Male,1988-04-25,+254792182875,ann.maina730@example.com,Ruiru,2026-10-05,VIP
+CUST0731,Josphat,Kiptoo,Male,1970-03-28,+254752074850,josphat.kiptoo731@example.com,Nairobi,2023-08-20,Regular
+CUST0732,Mary,Chebet,Male,1972-03-02,+254769713250,mary.chebet732@example.com,Nakuru,2024-01-14,Regular
+CUST0733,Mercy,Kipchoge,Male,1967-07-04,+254734680787,mercy.kipchoge733@example.com,Kiambu,2022-09-14,Regular
+CUST0734,Joy,Muli,Prefer not to say,1991-06-07,+254720746107,joy.muli734@example.com,Nairobi,2024-03-24,New
+CUST0735,Josphat,Barasa,Prefer not to say,1962-05-31,+254713538638,josphat.barasa735@example.com,Nakuru,2024-12-09,Regular
+CUST0736,Josphat,Wanjiku,Male,1987-09-22,+254730840572,josphat.wanjiku736@example.com,Nairobi,2024-03-09,New
+CUST0737,Michael,Omondi,Male,1979-11-17,+254794084814,michael.omondi737@example.com,Nairobi,2024-12-14,Regular
+CUST0738,Brian,Otieno,Prefer not to say,1976-01-03,+254753647781,brian.otieno738@example.com,Kiambu,2024-08-14,VIP
+CUST0739,Faith,Muli,Prefer not to say,1979-12-15,+254728134815,faith.muli739@example.com,Thika,2025-11-29,Regular
+CUST0740,Grace,Odhiambo,Male,1988-04-22,+254795342494,grace.odhiambo740@example.com,Kiambu,2024-06-09,Regular
+CUST0741,Ann,Njeri,Male,2000-10-08,+254756596140,ann.njeri741@example.com,Ruiru,2023-04-11,Regular
+CUST0742,Victor,Kariuki,Male,1978-06-28,+254744870711,victor.kariuki742@example.com,Nairobi,2022-01-22,New
+CUST0743,Sharon,Kilonzo,Female,1975-06-05,+254748488577,sharon.kilonzo743@example.com,Ruiru,2022-01-18,Regular
+CUST0744,Ian,Kilonzo,Male,1973-06-09,+254711225756,ian.kilonzo744@example.com,Nakuru,2026-06-23,New
+CUST0745,Michael,Mwangi,Prefer not to say,1976-10-04,+254735309568,michael.mwangi745@example.com,Nairobi,2025-02-22,Regular
+CUST0746,Michael,Kiptoo,Prefer not to say,1993-01-23,+254796703417,michael.kiptoo746@example.com,Nairobi,2024-02-14,New
+CUST0747,Josphat,Gachure,Prefer not to say,1970-09-29,+254779338228,josphat.gachure747@example.com,Nakuru,2025-06-09,Regular
+CUST0748,Joy,Muli,Male,1989-02-01,+254781396350,joy.muli748@example.com,Kiambu,2024-04-25,New
+CUST0749,Josphat,Kiptoo,Female,1972-12-27,+254724811778,josphat.kiptoo749@example.com,Mombasa,2025-06-19,Regular
+CUST0750,Esther,Odhiambo,Male,1968-06-03,+254753036072,esther.odhiambo750@example.com,Nairobi,2022-04-12,VIP
+CUST0751,Brian,Kiptoo,Female,1972-08-27,+254746130759,brian.kiptoo751@example.com,Nairobi,2024-06-16,Regular
+CUST0752,Michael,Kamau,Female,1960-08-29,+254776247126,michael.kamau752@example.com,Nairobi,2024-05-10,New
+CUST0753,Winnie,Barasa,Male,1980-10-19,+254714259684,winnie.barasa753@example.com,Nairobi,2026-09-24,Regular
+CUST0754,Peter,Otieno,Male,1994-10-17,+254762669959,peter.otieno754@example.com,Nairobi,2024-08-20,New
+CUST0755,Ruth,Muli,Male,1997-02-25,+254711693222,ruth.muli755@example.com,Nairobi,2026-04-23,Regular
+CUST0756,George,Kilonzo,Male,1971-02-01,+254714497675,george.kilonzo756@example.com,Nairobi,2026-02-14,Regular
+CUST0757,Mercy,Wambui,Female,1981-03-17,+254762227199,mercy.wambui757@example.com,Mombasa,2023-10-02,VIP
+CUST0758,Samuel,Chebet,Prefer not to say,1961-11-22,+254783763371,samuel.chebet758@example.com,Ruiru,2023-06-03,Regular
+CUST0759,Dennis,Mutua,Male,1999-10-24,+254716991067,dennis.mutua759@example.com,Kiambu,2023-03-23,VIP
+CUST0760,Michael,Chebet,Male,1974-07-22,+254712022353,michael.chebet760@example.com,Nairobi,2023-07-20,Regular
+CUST0761,George,Ochieng,Female,1961-11-19,+254787990837,george.ochieng761@example.com,Nakuru,2024-08-31,Regular
+CUST0762,Peter,Wekesa,Female,1971-02-27,+254731165928,peter.wekesa762@example.com,Ruiru,2025-11-05,Regular
+CUST0763,Beatrice,Kilonzo,Prefer not to say,1962-09-10,+254718022882,beatrice.kilonzo763@example.com,Nairobi,2022-11-12,Regular
+CUST0764,Winnie,Wanjiku,Female,1981-11-18,+254741229060,winnie.wanjiku764@example.com,Nairobi,2025-02-17,Regular
+CUST0765,Cynthia,Wekesa,Male,1992-11-20,+254735899364,cynthia.wekesa765@example.com,Nairobi,2024-02-13,Regular
+CUST0766,Peter,Muli,Female,1981-10-08,+254768720256,peter.muli766@example.com,Ruiru,2025-01-16,Regular
+CUST0767,David,Muthoni,Female,1984-05-20,+254756662763,david.muthoni767@example.com,Nairobi,2024-08-17,New
+CUST0768,Sharon,Odhiambo,Prefer not to say,1967-03-12,+254719244458,sharon.odhiambo768@example.com,Ruiru,2024-07-09,New
+CUST0769,James,Njeri,Male,1980-05-14,+254710096613,james.njeri769@example.com,Nakuru,2024-11-02,Regular
+CUST0770,Samuel,Mwangi,Prefer not to say,1998-06-08,+254758865345,samuel.mwangi770@example.com,Nakuru,2023-05-05,New
+CUST0771,Josphat,Wambui,Prefer not to say,1996-09-27,+254762008140,josphat.wambui771@example.com,Nairobi,2025-10-31,Regular
+CUST0772,Faith,Njoroge,Prefer not to say,1972-09-12,+254753298644,faith.njoroge772@example.com,Nairobi,2023-10-22,New
+CUST0773,Mercy,Wambui,Female,1961-12-18,+254727418007,mercy.wambui773@example.com,Nairobi,2022-03-06,New
+CUST0774,Ian,Mutua,Female,1961-06-05,+254786639957,ian.mutua774@example.com,Mombasa,2024-03-06,Regular
+CUST0775,Mercy,Odhiambo,Prefer not to say,1986-06-24,+254744351488,mercy.odhiambo775@example.com,Nairobi,2023-03-29,Regular
+CUST0776,Josphat,Mwangi,Female,1989-05-31,+254775955329,josphat.mwangi776@example.com,Thika,2026-09-01,New
+CUST0777,Winnie,Chebet,Female,1976-03-10,+254784896161,winnie.chebet777@example.com,Nakuru,2024-05-01,Regular
+CUST0778,Winnie,Kibet,Female,1996-12-11,+254792803389,winnie.kibet778@example.com,Nairobi,2022-03-25,Regular
+CUST0779,Sharon,Kariuki,Female,1969-09-07,+254779724133,sharon.kariuki779@example.com,Nairobi,2026-01-25,New
+CUST0780,George,Mutua,Female,1983-08-09,+254798164473,george.mutua780@example.com,Nairobi,2025-07-04,VIP
+CUST0781,Faith,Omondi,Prefer not to say,1978-08-16,+254724161873,faith.omondi781@example.com,Nakuru,2025-03-26,Regular
+CUST0782,Victor,Kibet,Prefer not to say,1979-02-27,+254723972387,victor.kibet782@example.com,Nairobi,2023-01-05,Regular
+CUST0783,Mercy,Maina,Prefer not to say,1967-02-04,+254781658908,mercy.maina783@example.com,Thika,2024-06-26,VIP
+CUST0784,Ruth,Maina,Prefer not to say,1974-07-25,+254759891348,ruth.maina784@example.com,Nairobi,2025-07-20,Regular
+CUST0785,Lydia,Maina,Prefer not to say,1970-10-18,+254785584002,lydia.maina785@example.com,Ruiru,2024-02-08,Regular
+CUST0786,Beatrice,Omondi,Male,1976-02-24,+254770720566,beatrice.omondi786@example.com,Nairobi,2024-03-24,New
+CUST0787,Kevin,Kariuki,Prefer not to say,1960-09-24,+254779472352,kevin.kariuki787@example.com,Nairobi,2023-09-11,New
+CUST0788,Michael,Mutua,Male,1960-12-21,+254747038339,michael.mutua788@example.com,Thika,2024-11-13,Regular
+CUST0789,Beatrice,Muthoni,Female,1964-03-24,+254715064880,beatrice.muthoni789@example.com,Ruiru,2022-11-16,New
+CUST0790,Martin,Muthoni,Female,1970-06-14,+254744392465,martin.muthoni790@example.com,Kiambu,2022-07-08,Regular
+CUST0791,Grace,Mutua,Prefer not to say,1963-06-18,+254753579429,grace.mutua791@example.com,Nakuru,2022-12-21,Regular
+CUST0792,Ruth,Kibet,Prefer not to say,1985-11-05,+254722799546,ruth.kibet792@example.com,Ruiru,2023-09-08,New
+CUST0793,Winnie,Muthoni,Male,1963-07-09,+254717505818,winnie.muthoni793@example.com,Thika,2023-11-16,New
+CUST0794,Sharon,Gachure,Male,1998-12-05,+254726178675,sharon.gachure794@example.com,Kiambu,2023-04-10,Regular
+CUST0795,Sheila,Odhiambo,Female,1988-06-07,+254794851591,sheila.odhiambo795@example.com,Nairobi,2023-09-17,Regular
+CUST0796,Eric,Njeri,Prefer not to say,1966-09-16,+254753866598,eric.njeri796@example.com,Ruiru,2023-03-29,New
+CUST0797,Joy,Omondi,Male,1979-12-27,+254789877290,joy.omondi797@example.com,Ruiru,2022-07-04,New
+CUST0798,Dennis,Kimani,Female,1965-12-05,+254755119729,dennis.kimani798@example.com,Nairobi,2025-03-16,Regular
+CUST0799,Faith,Kimani,Male,1963-10-25,+254763489393,faith.kimani799@example.com,Ruiru,2026-05-04,Regular
+CUST0800,Cynthia,Njoroge,Male,1985-02-01,+254736589676,cynthia.njoroge800@example.com,Ruiru,2025-08-28,Regular
+CUST0801,Faith,Odhiambo,Prefer not to say,1983-07-08,+254743050557,faith.odhiambo801@example.com,Nairobi,2023-06-30,Regular
+CUST0802,Eric,Wambui,Prefer not to say,1964-01-07,+254725103503,eric.wambui802@example.com,Mombasa,2024-05-17,Regular
+CUST0803,David,Maina,Male,1986-08-22,+254797967622,david.maina803@example.com,Nairobi,2023-09-17,New
+CUST0804,Martin,Odhiambo,Male,1987-12-15,+254729571424,martin.odhiambo804@example.com,Nairobi,2026-08-03,New
+CUST0805,Joy,Wekesa,Female,1993-12-27,+254721517819,joy.wekesa805@example.com,Nairobi,2022-04-22,New
+CUST0806,Mary,Njoroge,Male,1960-08-13,+254756073103,mary.njoroge806@example.com,Mombasa,2022-08-16,New
+CUST0807,Ian,Mwangi,Male,1969-05-17,+254782209870,ian.mwangi807@example.com,Nairobi,2025-01-24,Regular
+CUST0808,James,Njeri,Male,1987-12-12,+254728971329,james.njeri808@example.com,Mombasa,2025-09-30,New
+CUST0809,Grace,Wambui,Prefer not to say,1961-12-13,+254744286770,grace.wambui809@example.com,Nairobi,2023-08-05,New
+CUST0810,Esther,Odhiambo,Male,1962-05-19,+254772405984,esther.odhiambo810@example.com,Mombasa,2022-01-18,New
+CUST0811,Joy,Muli,Prefer not to say,1998-03-22,+254798597172,joy.muli811@example.com,Nairobi,2022-08-09,New
+CUST0812,Sheila,Chebet,Male,1970-05-15,+254761096850,sheila.chebet812@example.com,Ruiru,2025-12-24,New
+CUST0813,Eric,Barasa,Prefer not to say,1983-11-05,+254721813934,eric.barasa813@example.com,Nairobi,2024-10-22,VIP
+CUST0814,Faith,Kibet,Female,1961-10-13,+254743204410,faith.kibet814@example.com,Thika,2023-09-17,New
+CUST0815,George,Omondi,Female,1960-10-28,+254756544010,george.omondi815@example.com,Mombasa,2023-12-29,Regular
+CUST0816,Michael,Achieng,Male,1996-06-02,+254718322800,michael.achieng816@example.com,Mombasa,2024-03-03,Regular
+CUST0817,Sharon,Mwangi,Prefer not to say,1972-07-26,+254740277197,sharon.mwangi817@example.com,Nairobi,2024-03-15,Regular
+CUST0818,Josphat,Omondi,Male,1983-05-11,+254792201431,josphat.omondi818@example.com,Kiambu,2025-11-06,New
+CUST0819,Michael,Muthoni,Female,1979-02-17,+254751927304,michael.muthoni819@example.com,Thika,2023-11-06,Regular
+CUST0820,Peter,Mutua,Prefer not to say,1966-03-20,+254787984620,peter.mutua820@example.com,Ruiru,2026-06-27,New
+CUST0821,Peter,Kariuki,Prefer not to say,1991-08-18,+254780303981,peter.kariuki821@example.com,Thika,2024-05-30,VIP
+CUST0822,Cynthia,Njoroge,Prefer not to say,1985-05-03,+254731212832,cynthia.njoroge822@example.com,Nairobi,2025-02-15,Regular
+CUST0823,Lydia,Wanjiku,Female,1974-03-31,+254729531743,lydia.wanjiku823@example.com,Nakuru,2026-04-17,New
+CUST0824,Paul,Gachure,Male,1979-11-15,+254795476210,paul.gachure824@example.com,Thika,2023-07-15,New
+CUST0825,David,Wanjiku,Female,1968-04-14,+254713516265,david.wanjiku825@example.com,Nakuru,2025-06-07,Regular
+CUST0826,Mary,Muthoni,Prefer not to say,1970-05-11,+254790042177,mary.muthoni826@example.com,Nairobi,2025-11-08,New
+CUST0827,Josphat,Kibet,Male,1966-01-05,+254777420864,josphat.kibet827@example.com,Kiambu,2024-08-18,Regular
+CUST0828,Martin,Kiptoo,Male,1982-01-16,+254773598657,martin.kiptoo828@example.com,Nairobi,2023-01-31,New
+CUST0829,Paul,Kilonzo,Female,1972-02-08,+254765437830,paul.kilonzo829@example.com,Nairobi,2025-10-06,VIP
+CUST0830,Cynthia,Mutua,Female,1967-12-11,+254768959861,cynthia.mutua830@example.com,Kiambu,2024-09-30,Regular
+CUST0831,Sheila,Kipchoge,Female,1979-03-07,+254764340297,sheila.kipchoge831@example.com,Nakuru,2025-05-30,Regular
+CUST0832,George,Omondi,Male,1977-09-05,+254792074794,george.omondi832@example.com,Thika,2025-03-17,Regular
+CUST0833,Mercy,Chebet,Prefer not to say,1995-04-19,+254715168989,mercy.chebet833@example.com,Ruiru,2024-07-13,Regular
+CUST0834,Ruth,Otieno,Female,1983-04-08,+254782191574,ruth.otieno834@example.com,Nairobi,2026-02-14,New
+CUST0835,George,Achieng,Prefer not to say,1962-03-18,+254735481281,george.achieng835@example.com,Nairobi,2024-03-26,Regular
+CUST0836,Cynthia,Kariuki,Male,1967-06-20,+254766701914,cynthia.kariuki836@example.com,Nairobi,2022-04-22,Regular
+CUST0837,Ruth,Njoroge,Male,1997-03-23,+254796718276,ruth.njoroge837@example.com,Ruiru,2026-01-19,Regular
+CUST0838,Samuel,Kilonzo,Prefer not to say,2000-02-12,+254783337520,samuel.kilonzo838@example.com,Nairobi,2024-04-26,New
+CUST0839,Brian,Kiptoo,Male,1986-06-24,+254737102854,brian.kiptoo839@example.com,Kiambu,2022-07-04,New
+CUST0840,Esther,Chebet,Prefer not to say,1995-09-23,+254732010905,esther.chebet840@example.com,Nakuru,2022-09-11,New
+CUST0841,Esther,Kipchoge,Prefer not to say,1976-04-12,+254721449650,esther.kipchoge841@example.com,Ruiru,2024-02-26,Regular
+CUST0842,Mercy,Odhiambo,Female,1976-12-26,+254783866174,mercy.odhiambo842@example.com,Nairobi,2026-04-23,New
+CUST0843,Eric,Muthoni,Prefer not to say,1998-09-12,+254730144703,eric.muthoni843@example.com,Nairobi,2022-10-24,New
+CUST0844,Esther,Otieno,Male,1973-10-26,+254751542843,esther.otieno844@example.com,Nakuru,2024-07-02,New
+CUST0845,Samuel,Wanjiku,Female,1969-02-05,+254710474177,samuel.wanjiku845@example.com,Mombasa,2023-06-03,New
+CUST0846,Ian,Barasa,Prefer not to say,1996-03-21,+254710771825,ian.barasa846@example.com,Mombasa,2024-10-07,New
+CUST0847,Grace,Wambui,Male,1980-05-09,+254765049584,grace.wambui847@example.com,Nairobi,2025-05-16,Regular
+CUST0848,Michael,Njeri,Male,1987-10-20,+254794374018,michael.njeri848@example.com,Ruiru,2026-08-18,New
+CUST0849,Samuel,Njoroge,Female,1989-04-21,+254756844649,samuel.njoroge849@example.com,Nairobi,2022-03-08,Regular
+CUST0850,Sharon,Odhiambo,Male,1974-11-07,+254721771255,sharon.odhiambo850@example.com,Nairobi,2024-05-03,VIP
+CUST0851,Samuel,Wambui,Male,1987-05-31,+254798707799,samuel.wambui851@example.com,Mombasa,2025-05-03,Regular
+CUST0852,Faith,Kiptoo,Male,1993-08-12,+254787707540,faith.kiptoo852@example.com,Nairobi,2022-03-15,New
+CUST0853,Dennis,Maina,Male,2000-04-05,+254760860378,dennis.maina853@example.com,Kiambu,2026-04-03,Regular
+CUST0854,Faith,Kamau,Male,1981-02-12,+254728058430,faith.kamau854@example.com,Nairobi,2023-07-17,New
+CUST0855,Paul,Achieng,Female,1991-03-19,+254738058347,paul.achieng855@example.com,Mombasa,2022-08-12,Regular
+CUST0856,Ann,Achieng,Female,1981-09-11,+254791171931,ann.achieng856@example.com,Thika,2025-12-18,New
+CUST0857,Mary,Maina,Male,1983-07-27,+254787194344,mary.maina857@example.com,Thika,2023-12-26,VIP
+CUST0858,Mary,Muthoni,Male,1983-04-24,+254794806492,mary.muthoni858@example.com,Ruiru,2026-07-13,New
+CUST0859,Mary,Ochieng,Prefer not to say,1973-01-11,+254735978571,mary.ochieng859@example.com,Nairobi,2022-02-19,Regular
+CUST0860,Winnie,Wanjiku,Prefer not to say,1998-01-15,+254737827473,winnie.wanjiku860@example.com,Nakuru,2024-04-29,Regular
+CUST0861,Eric,Wekesa,Prefer not to say,1996-02-27,+254795564277,eric.wekesa861@example.com,Nairobi,2025-08-04,New
+CUST0862,Dennis,Muli,Female,1973-10-21,+254750303435,dennis.muli862@example.com,Ruiru,2023-10-26,Regular
+CUST0863,Daniel,Wambui,Male,1975-04-24,+254763156840,daniel.wambui863@example.com,Nakuru,2025-06-15,VIP
+CUST0864,Sharon,Kiptoo,Female,1974-10-29,+254755357116,sharon.kiptoo864@example.com,Thika,2024-09-08,VIP
+CUST0865,Winnie,Otieno,Prefer not to say,1966-02-02,+254774625235,winnie.otieno865@example.com,Nairobi,2024-08-01,Regular
+CUST0866,Faith,Maina,Male,1995-03-02,+254765559839,faith.maina866@example.com,Thika,2022-04-25,Regular
+CUST0867,Dennis,Muthoni,Prefer not to say,1990-06-03,+254752346074,dennis.muthoni867@example.com,Ruiru,2022-02-08,New
+CUST0868,Joy,Maina,Male,1962-12-20,+254730039365,joy.maina868@example.com,Nairobi,2022-03-05,New
+CUST0869,George,Chebet,Prefer not to say,1997-10-14,+254732276047,george.chebet869@example.com,Ruiru,2024-03-08,New
+CUST0870,Daniel,Kilonzo,Male,1991-08-21,+254752211394,daniel.kilonzo870@example.com,Nakuru,2023-07-11,Regular
+CUST0871,Ian,Ochieng,Male,1980-04-09,+254750618137,ian.ochieng871@example.com,Nairobi,2023-09-12,New
+CUST0872,Martin,Otieno,Female,2000-12-20,+254722429114,martin.otieno872@example.com,Nairobi,2022-02-21,Regular
+CUST0873,Ruth,Achieng,Female,1968-07-13,+254755649583,ruth.achieng873@example.com,Thika,2026-02-09,Regular
+CUST0874,Dennis,Kilonzo,Male,1966-06-05,+254723187101,dennis.kilonzo874@example.com,Kiambu,2024-11-23,Regular
+CUST0875,Peter,Mutua,Prefer not to say,1961-08-21,+254771655384,peter.mutua875@example.com,Nairobi,2024-12-05,New
+CUST0876,Dennis,Otieno,Prefer not to say,1998-01-16,+254789763928,dennis.otieno876@example.com,Kiambu,2023-11-14,Regular
+CUST0877,Kevin,Wanjiku,Prefer not to say,1994-05-15,+254798447373,kevin.wanjiku877@example.com,Nakuru,2022-02-16,Regular
+CUST0878,Dennis,Chebet,Female,1974-05-24,+254736918105,dennis.chebet878@example.com,Nairobi,2023-07-21,Regular
+CUST0879,Cynthia,Kipchoge,Prefer not to say,1965-04-11,+254746595028,cynthia.kipchoge879@example.com,Nairobi,2023-07-15,New
+CUST0880,Mary,Njeri,Prefer not to say,1964-08-04,+254737726346,mary.njeri880@example.com,Ruiru,2025-01-30,New
+CUST0881,Peter,Kibet,Male,1985-10-01,+254742859865,peter.kibet881@example.com,Nairobi,2023-09-30,Regular
+CUST0882,Eric,Njeri,Male,1962-04-11,+254727458237,eric.njeri882@example.com,Nairobi,2025-10-15,New
+CUST0883,George,Otieno,Female,1979-02-17,+254762602177,george.otieno883@example.com,Nairobi,2025-05-05,Regular
+CUST0884,Ann,Kibet,Prefer not to say,1979-12-31,+254792720444,ann.kibet884@example.com,Nairobi,2023-11-12,Regular
+CUST0885,Esther,Kilonzo,Prefer not to say,1996-04-20,+254781603135,esther.kilonzo885@example.com,Nairobi,2026-03-28,Regular
+CUST0886,Grace,Njoroge,Female,1996-06-17,+254772850928,grace.njoroge886@example.com,Nairobi,2023-09-28,Regular
+CUST0887,Esther,Kilonzo,Male,1981-02-08,+254741097470,esther.kilonzo887@example.com,Thika,2022-10-22,Regular
+CUST0888,Mary,Muli,Male,1977-08-02,+254734609232,mary.muli888@example.com,Mombasa,2025-09-24,New
+CUST0889,Sheila,Maina,Male,1981-11-13,+254714061983,sheila.maina889@example.com,Nairobi,2022-08-20,Regular
+CUST0890,Victor,Kiptoo,Male,1994-06-12,+254756790372,victor.kiptoo890@example.com,Mombasa,2022-09-18,Regular
+CUST0891,George,Kibet,Female,1974-08-14,+254784645170,george.kibet891@example.com,Mombasa,2026-06-11,New
+CUST0892,Victor,Kimani,Prefer not to say,1978-07-18,+254742021033,victor.kimani892@example.com,Mombasa,2025-01-27,New
+CUST0893,Ian,Kimani,Female,1975-04-14,+254737949250,ian.kimani893@example.com,Kiambu,2025-04-25,Regular
+CUST0894,Paul,Muthoni,Male,1984-06-04,+254741696096,paul.muthoni894@example.com,Nairobi,2025-10-03,New
+CUST0895,Beatrice,Kibet,Prefer not to say,1997-07-14,+254775314414,beatrice.kibet895@example.com,Nairobi,2025-05-05,Regular
+CUST0896,Faith,Wanjiku,Male,1967-11-26,+254751343854,faith.wanjiku896@example.com,Thika,2022-05-23,Regular
+CUST0897,Joy,Odhiambo,Male,1974-09-08,+254776343171,joy.odhiambo897@example.com,Mombasa,2022-05-06,New
+CUST0898,Sharon,Njoroge,Prefer not to say,2000-07-07,+254795380301,sharon.njoroge898@example.com,Kiambu,2026-03-31,New
+CUST0899,Peter,Kipchoge,Prefer not to say,1973-01-27,+254762342586,peter.kipchoge899@example.com,Mombasa,2024-07-04,New
+CUST0900,Joy,Maina,Male,1985-07-31,+254750876026,joy.maina900@example.com,Thika,2024-06-09,Regular
+CUST0901,Beatrice,Wekesa,Female,1986-02-20,+254711089747,beatrice.wekesa901@example.com,Mombasa,2024-11-11,Regular
+CUST0902,Peter,Kariuki,Female,1976-07-24,+254783670115,peter.kariuki902@example.com,Thika,2022-01-02,Regular
+CUST0903,Sharon,Wekesa,Female,1998-08-19,+254747877483,sharon.wekesa903@example.com,Kiambu,2023-04-27,Regular
+CUST0904,Grace,Kimani,Prefer not to say,1974-04-09,+254761377152,grace.kimani904@example.com,Nairobi,2024-06-10,Regular
+CUST0905,Joy,Kiptoo,Male,1966-03-28,+254735263378,joy.kiptoo905@example.com,Ruiru,2026-09-24,VIP
+CUST0906,Sharon,Gachure,Female,1972-12-09,+254799934747,sharon.gachure906@example.com,Nairobi,2022-01-24,New
+CUST0907,Brian,Njoroge,Prefer not to say,1999-09-11,+254775323947,brian.njoroge907@example.com,Mombasa,2022-10-06,New
+CUST0908,Ann,Gachure,Male,2000-01-31,+254791125155,ann.gachure908@example.com,Thika,2025-06-30,New
+CUST0909,Mercy,Gachure,Prefer not to say,1996-10-14,+254770404120,mercy.gachure909@example.com,Nairobi,2023-04-08,New
+CUST0910,Mary,Mwangi,Prefer not to say,1982-05-06,+254741776042,mary.mwangi910@example.com,Nakuru,2023-07-06,Regular
+CUST0911,Faith,Muthoni,Male,1961-07-02,+254715082158,faith.muthoni911@example.com,Ruiru,2025-12-14,Regular
+CUST0912,Grace,Barasa,Prefer not to say,1963-08-04,+254729070658,grace.barasa912@example.com,Nakuru,2024-12-14,VIP
+CUST0913,Cynthia,Kilonzo,Male,1980-11-08,+254779383794,cynthia.kilonzo913@example.com,Nairobi,2025-06-03,New
+CUST0914,Ian,Chebet,Prefer not to say,1989-10-09,+254799753695,ian.chebet914@example.com,Nairobi,2025-07-21,Regular
+CUST0915,Grace,Kariuki,Prefer not to say,1962-05-14,+254756109986,grace.kariuki915@example.com,Ruiru,2022-01-23,Regular
+CUST0916,Mercy,Barasa,Prefer not to say,1992-11-30,+254754495054,mercy.barasa916@example.com,Nairobi,2026-06-23,New
+CUST0917,Samuel,Otieno,Prefer not to say,1986-10-22,+254750811697,samuel.otieno917@example.com,Nakuru,2025-02-28,New
+CUST0918,Ann,Barasa,Prefer not to say,1967-08-02,+254786887967,ann.barasa918@example.com,Nairobi,2023-08-21,Regular
+CUST0919,Mary,Mwangi,Male,1981-09-29,+254721074327,mary.mwangi919@example.com,Nairobi,2022-06-07,Regular
+CUST0920,James,Muli,Female,1987-08-16,+254747711414,james.muli920@example.com,Nairobi,2023-06-11,New
+CUST0921,Daniel,Odhiambo,Female,2000-10-28,+254789426041,daniel.odhiambo921@example.com,Nakuru,2025-09-11,Regular
+CUST0922,Winnie,Kiptoo,Male,1995-02-06,+254741701674,winnie.kiptoo922@example.com,Ruiru,2026-06-26,Regular
+CUST0923,Kevin,Maina,Female,1966-07-04,+254789932574,kevin.maina923@example.com,Thika,2022-11-12,Regular
+CUST0924,Cynthia,Gachure,Male,1970-09-03,+254798673262,cynthia.gachure924@example.com,Nairobi,2025-07-29,New
+CUST0925,Grace,Omondi,Male,1962-06-09,+254796202825,grace.omondi925@example.com,Nairobi,2026-08-06,New
+CUST0926,Samuel,Kipchoge,Male,1981-05-12,+254750448811,samuel.kipchoge926@example.com,Ruiru,2026-03-21,VIP
+CUST0927,Michael,Kimani,Prefer not to say,1991-08-26,+254762354374,michael.kimani927@example.com,Ruiru,2022-10-25,Regular
+CUST0928,Paul,Mwangi,Male,1995-10-07,+254770239684,paul.mwangi928@example.com,Nairobi,2023-10-09,VIP
+CUST0929,Joy,Otieno,Female,1983-10-31,+254795553621,joy.otieno929@example.com,Nairobi,2026-09-26,Regular
+CUST0930,Beatrice,Chebet,Male,1975-01-10,+254746282557,beatrice.chebet930@example.com,Nairobi,2022-07-21,New
+CUST0931,Grace,Kimani,Male,1994-09-06,+254742453439,grace.kimani931@example.com,Nakuru,2025-04-20,Regular
+CUST0932,Mercy,Maina,Prefer not to say,1990-12-18,+254734148004,mercy.maina932@example.com,Nairobi,2022-01-22,Regular
+CUST0933,Sharon,Kamau,Female,1978-06-12,+254723112905,sharon.kamau933@example.com,Ruiru,2025-11-04,Regular
+CUST0934,Michael,Omondi,Male,1971-04-20,+254735914696,michael.omondi934@example.com,Nairobi,2025-06-22,New
+CUST0935,Mary,Wambui,Female,1986-11-20,+254795642035,mary.wambui935@example.com,Nairobi,2022-09-03,New
+CUST0936,Mary,Njoroge,Male,1989-06-11,+254796960449,mary.njoroge936@example.com,Ruiru,2023-01-14,Regular
+CUST0937,Esther,Kiptoo,Male,1973-03-19,+254772673716,esther.kiptoo937@example.com,Mombasa,2022-06-05,Regular
+CUST0938,Beatrice,Muli,Male,1991-01-19,+254799600963,beatrice.muli938@example.com,Nakuru,2023-10-25,New
+CUST0939,Cynthia,Kamau,Male,1994-11-10,+254718373492,cynthia.kamau939@example.com,Nairobi,2023-11-13,VIP
+CUST0940,James,Muli,Female,1979-10-06,+254719314506,james.muli940@example.com,Ruiru,2023-02-15,Regular
+CUST0941,Samuel,Chebet,Male,1964-11-11,+254729310253,samuel.chebet941@example.com,Ruiru,2024-06-02,New
+CUST0942,Ann,Wanjiku,Male,1992-02-03,+254744761889,ann.wanjiku942@example.com,Nairobi,2022-05-30,New
+CUST0943,Lydia,Muli,Male,1960-11-03,+254776800348,lydia.muli943@example.com,Nairobi,2025-08-04,New
+CUST0944,Kevin,Wambui,Male,1971-12-14,+254730348410,kevin.wambui944@example.com,Nakuru,2024-03-12,Regular
+CUST0945,Mercy,Kibet,Male,1981-06-12,+254768526669,mercy.kibet945@example.com,Nairobi,2026-01-30,Regular
+CUST0946,Winnie,Kamau,Prefer not to say,1970-02-17,+254710443906,winnie.kamau946@example.com,Nairobi,2025-11-12,Regular
+CUST0947,Ian,Wanjiku,Prefer not to say,1984-01-05,+254758173202,ian.wanjiku947@example.com,Nairobi,2023-09-13,Regular
+CUST0948,Ann,Chebet,Female,1976-05-21,+254781756326,ann.chebet948@example.com,Kiambu,2023-11-28,New
+CUST0949,Victor,Kilonzo,Male,1989-01-21,+254737262368,victor.kilonzo949@example.com,Nairobi,2022-03-22,VIP
+CUST0950,Joy,Mutua,Male,1991-03-20,+254762358969,joy.mutua950@example.com,Kiambu,2025-07-15,Regular
+CUST0951,Ian,Kamau,Prefer not to say,1979-08-24,+254735429494,ian.kamau951@example.com,Nairobi,2023-01-31,New
+CUST0952,Grace,Ochieng,Male,1977-06-09,+254718454727,grace.ochieng952@example.com,Nakuru,2025-08-10,New
+CUST0953,Faith,Kipchoge,Female,1961-08-29,+254755538076,faith.kipchoge953@example.com,Nairobi,2026-06-02,Regular
+CUST0954,George,Wanjiku,Female,1996-03-15,+254797758252,george.wanjiku954@example.com,Mombasa,2024-07-27,VIP
+CUST0955,Sheila,Njeri,Female,1993-03-29,+254787758465,sheila.njeri955@example.com,Nairobi,2022-05-28,New
+CUST0956,Peter,Barasa,Prefer not to say,1960-11-08,+254773246028,peter.barasa956@example.com,Thika,2025-06-20,New
+CUST0957,Esther,Chebet,Female,1960-08-23,+254733118870,esther.chebet957@example.com,Mombasa,2023-09-22,Regular
+CUST0958,Daniel,Kipchoge,Prefer not to say,1967-08-28,+254789328380,daniel.kipchoge958@example.com,Nairobi,2026-08-02,New
+CUST0959,Ian,Odhiambo,Prefer not to say,1969-11-22,+254718470495,ian.odhiambo959@example.com,Kiambu,2024-05-22,New
+CUST0960,Sharon,Omondi,Prefer not to say,1978-01-12,+254753518077,sharon.omondi960@example.com,Nairobi,2025-11-02,Regular
+CUST0961,Peter,Maina,Female,1994-04-13,+254716118522,peter.maina961@example.com,Ruiru,2023-11-19,New
+CUST0962,James,Njoroge,Male,1967-07-16,+254759650807,james.njoroge962@example.com,Ruiru,2024-06-17,New
+CUST0963,Grace,Otieno,Female,1964-06-25,+254794851724,grace.otieno963@example.com,Mombasa,2026-05-12,New
+CUST0964,Ruth,Barasa,Female,1960-04-14,+254710969588,ruth.barasa964@example.com,Nairobi,2022-07-02,Regular
+CUST0965,Grace,Kariuki,Male,1991-02-09,+254773889312,grace.kariuki965@example.com,Mombasa,2023-02-27,New
+CUST0966,James,Achieng,Male,1978-06-25,+254742112095,james.achieng966@example.com,Thika,2025-06-04,Regular
+CUST0967,Mary,Kiptoo,Prefer not to say,1982-06-04,+254792147935,mary.kiptoo967@example.com,Thika,2025-07-08,Regular
+CUST0968,Dennis,Wekesa,Male,1960-03-15,+254784854623,dennis.wekesa968@example.com,Nairobi,2022-08-29,VIP
+CUST0969,Daniel,Odhiambo,Male,1998-09-12,+254782440371,daniel.odhiambo969@example.com,Ruiru,2024-08-08,Regular
+CUST0970,Joy,Mutua,Male,1962-05-19,+254736000523,joy.mutua970@example.com,Nairobi,2022-11-02,Regular
+CUST0971,Beatrice,Barasa,Male,1967-11-28,+254731442569,beatrice.barasa971@example.com,Mombasa,2022-03-30,New
+CUST0972,Martin,Kariuki,Female,1979-07-01,+254743739891,martin.kariuki972@example.com,Nairobi,2026-07-07,Regular
+CUST0973,Victor,Otieno,Female,1993-03-18,+254717040602,victor.otieno973@example.com,Thika,2022-12-27,New
+CUST0974,Brian,Barasa,Prefer not to say,1965-03-16,+254719510600,brian.barasa974@example.com,Kiambu,2026-01-17,Regular
+CUST0975,Grace,Maina,Male,1968-11-30,+254753712695,grace.maina975@example.com,Nairobi,2022-08-14,New
+CUST0976,Daniel,Ochieng,Prefer not to say,1978-07-04,+254736837617,daniel.ochieng976@example.com,Nairobi,2023-03-28,New
+CUST0977,Grace,Barasa,Female,1999-12-11,+254768500818,grace.barasa977@example.com,Nairobi,2025-06-02,Regular
+CUST0978,George,Wekesa,Female,1980-07-13,+254736059032,george.wekesa978@example.com,Mombasa,2023-07-07,New
+CUST0979,Peter,Otieno,Prefer not to say,1985-07-05,+254718006318,peter.otieno979@example.com,Nairobi,2022-08-16,Regular
+CUST0980,Victor,Gachure,Female,1994-02-08,+254756113991,victor.gachure980@example.com,Nairobi,2023-08-28,Regular
+CUST0981,Winnie,Chebet,Prefer not to say,2000-08-14,+254732808354,winnie.chebet981@example.com,Ruiru,2025-02-06,Regular
+CUST0982,Josphat,Gachure,Prefer not to say,1981-12-11,+254739050434,josphat.gachure982@example.com,Ruiru,2026-09-11,Regular
+CUST0983,Brian,Omondi,Male,1993-01-08,+254743105363,brian.omondi983@example.com,Nairobi,2024-06-08,Regular
+CUST0984,Ruth,Muthoni,Female,2000-12-26,+254787000815,ruth.muthoni984@example.com,Kiambu,2024-05-05,VIP
+CUST0985,Kevin,Barasa,Prefer not to say,1994-06-23,+254777674770,kevin.barasa985@example.com,Nairobi,2024-12-23,Regular
+CUST0986,Winnie,Kibet,Female,1980-04-17,+254776476033,winnie.kibet986@example.com,Nairobi,2025-02-17,Regular
+CUST0987,Esther,Omondi,Male,1969-10-11,+254727812303,esther.omondi987@example.com,Nairobi,2023-05-05,Regular
+CUST0988,Josphat,Mwangi,Male,1990-01-04,+254750914476,josphat.mwangi988@example.com,Nairobi,2024-07-29,Regular
+CUST0989,Lydia,Muthoni,Female,1980-05-27,+254772244899,lydia.muthoni989@example.com,Nakuru,2025-12-11,Regular
+CUST0990,Winnie,Wekesa,Prefer not to say,1980-10-29,+254795013818,winnie.wekesa990@example.com,Nairobi,2025-07-08,New
+CUST0991,Ruth,Kibet,Male,1983-10-25,+254714390822,ruth.kibet991@example.com,Nairobi,2026-03-22,New
+CUST0992,Mary,Njeri,Prefer not to say,1995-08-21,+254737802722,mary.njeri992@example.com,Nakuru,2022-06-15,Regular
+CUST0993,Eric,Omondi,Female,1983-02-02,+254758853980,eric.omondi993@example.com,Kiambu,2022-08-16,Regular
+CUST0994,Victor,Odhiambo,Female,1976-05-25,+254759181804,victor.odhiambo994@example.com,Nairobi,2025-02-18,Regular
+CUST0995,Faith,Kibet,Female,1966-03-17,+254754953500,faith.kibet995@example.com,Nairobi,2022-08-21,Regular
+CUST0996,Lydia,Kilonzo,Prefer not to say,1999-01-28,+254738158070,lydia.kilonzo996@example.com,Nakuru,2026-04-08,New
+CUST0997,Martin,Muli,Prefer not to say,1990-07-06,+254766764586,martin.muli997@example.com,Nairobi,2022-05-10,Regular
+CUST0998,Victor,Barasa,Prefer not to say,1983-08-17,+254726469781,victor.barasa998@example.com,Ruiru,2024-12-25,Regular
+CUST0999,Faith,Kariuki,Male,1987-11-08,+254759411699,faith.kariuki999@example.com,Nakuru,2025-11-20,Regular
+CUST1000,Ruth,Kamau,Female,2000-01-03,+254771454824,ruth.kamau1000@example.com,Nairobi,2024-03-11,Regular
